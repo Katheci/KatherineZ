@@ -12,7 +12,7 @@
 
 [![lakshanrukantha - lakshanrukantha.github.io](https://img.shields.io/static/v1?label=lakshanrukantha&message=lakshanrukantha.github.io&color=blue&logo=github)](https://github.com/lakshanrukantha/lakshanrukantha.github.io "Go to GitHub repo")
 [![stars - lakshanrukantha.github.io](https://img.shields.io/github/stars/lakshanrukantha/lakshanrukantha.github.io?style=social)](https://github.com/lakshanrukantha/lakshanrukantha.github.io)
-[![forks - lakshanrukantha.github.io](https://img.shields.io/github/forks/lakshanrukantha/lakshanrukantha.github.io?style=social)](https://github.com/lakshanrukantha/lakshanrukantha.github.io)
+[![forks - lakshanrukantha.github.io](https://img.shields.io/github/forks/lakshanrukantha/lakshanrukantha.github.io?style=social)](https://www.katherinez.com)
 
 _Repo metadata_
 
@@ -47,4 +47,4 @@ _Repo info_
 
 ## License
 
-Released under [MIT](/LICENSE) by [@lakshanrukantha](https://github.com/lakshanrukantha).
+Released under [MIT](/LICENSE) by [@katheci](www.katherinez.com).
