@@ -26,7 +26,7 @@ _Call-to-Action buttons_
 
 <div align="center">
 
-[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://lakshanrukantha.github.io)
+[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge)](https://katherineZ.github.io)
 <hr/>
 </div>
 
