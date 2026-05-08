@@ -320,8 +320,6 @@ h6 {
   overflow: hidden;
 }
 
-.cv-download {
-  display: none;
 }
 
 .scroll-progress-track {
@@ -586,7 +584,7 @@ h6 {
   padding: 0 50px;
 }
 
-#bio .img .photo-bio.web.png {
+#bio .img .bio-img {
   position: relative;
   width: 100%;
   cursor: grab;
