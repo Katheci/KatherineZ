@@ -526,8 +526,8 @@ h6 {
 }
 
 #intro .img img {
-  width: 100%;
-  max-width: 400px;
+  width: 80%;
+  max-width: 320px;
   height: auto;
   position: relative;
   -webkit-mask: url(../img/clip.webp);
