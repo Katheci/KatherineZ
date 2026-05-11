@@ -15,7 +15,7 @@ $(document).ready(function () {
 //Scroll To Sections
 
 function toAbout() {
-  var element = document.getElementById("about");
+  var element = document.getElementById("Sobre mi");
   var headerOffset = 85;
   var elementPosition = element.getBoundingClientRect().top;
   var offsetPosition = elementPosition + window.pageYOffset - headerOffset;
