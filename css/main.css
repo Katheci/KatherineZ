@@ -433,7 +433,7 @@ h6 {
 }
 
 .btn-contact {
-  background-color: #FF75FF !important;
+  background-color: #FF5EFF !important;
   border: 2px solid #FF5EFF;
   transition: background-color 0.2s ease-in-out;
   cursor: pointer;
@@ -458,7 +458,7 @@ h6 {
 .intro-p-url {
   text-decoration: underline;
   display: inline-block !important;
-  color: #FF75FF;
+  color: #FF5EFF;
 }
 
 .intro-p-url:hover {
@@ -1247,7 +1247,7 @@ footer .support ul li a:hover {
     width: 2px;
     height: 120px;
     display: block;
-    background-color: #FF75FF;
+    background-color: #FF5EFF;
     position: absolute;
     top: 0;
     left: 50%;
@@ -1309,7 +1309,7 @@ footer .support ul li a:hover {
     width: 2px;
     height: 100px;
     display: block;
-    background-color: #FF75FF;
+    background-color: #FF5EFF;
     position: absolute;
     top: 150px;
     left: 0;
@@ -1369,7 +1369,7 @@ footer .support ul li a:hover {
     transform: translateX(-50%);
     width: 2px;
     height: 104%;
-    background-color: #FF75FF;
+    background-color: #FF5EFF;
   }
 
   .timeline ul li {
@@ -1401,7 +1401,7 @@ footer .support ul li a:hover {
     width: 20px;
     margin: 0px 10px;
     border-radius: 50%;
-    border: 2px solid #FF75FF;
+    border: 2px solid #FF5EFF;
     background-color: #000000;
     top: 0px;
     transition: background-color 0.4s;
@@ -1453,13 +1453,13 @@ footer .support ul li a:hover {
   }
 
   .timeline ul li:hover::before {
-    background-color: #FF75FF;
+    background-color: #FF5EFF;
     scale: 120%;
   }
 
   .timeline ul .start:not(:hover)::after {
     pointer-events: none;
-    background-color: #FF75FF;
+    background-color: #FF5EFF;
   }
 
   #contact {
@@ -1566,7 +1566,7 @@ footer .support ul li a:hover {
   .navbar .nav-brand {
     position: relative;
     top: -10px;
-    background-color: #FF75FF;
+    background-color: #FF5EFF;
     display: inline-block;
     padding: 20px 10px 0px 10px;
     font-size: 2em;
@@ -1659,7 +1659,7 @@ footer .support ul li a:hover {
   }
 
   .btn-contact:hover {
-    background-color: #FF75FF !important;
+    background-color: #FF5EFF !important;
   }
 
   .contact-btn {
