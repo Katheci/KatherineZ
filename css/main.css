@@ -34,13 +34,13 @@ body {
 ::-webkit-scrollbar {
   position: absolute;
   width: 8px;
-  background: #ff05c3;
+  background: #000000;
   transition: border-radius 1s;
   margin-top: 40px;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #FF21B9;
+  background: #000000;
   border-radius: 4px;
 }
 
@@ -97,7 +97,7 @@ a:hover {
 nav .cv-download {
   color: #ffffff;
   border: none;
-  background-color: #FF21B9;
+  background-color: #000000;
   padding: 15px 20px;
   /* padding: 15px auto; */
 }
@@ -131,7 +131,7 @@ textarea:focus {
 }
 
 .btn-outline-success:hover {
-  background-color: #ff05c3;
+  background-color: #000000;
 }
 
 h1 {
@@ -362,7 +362,7 @@ h6 {
   cursor: default;
   z-index: 10;
   opacity: 1;
-  background-color: #ff05c3;
+  background-color: #000000;
 }
 
 .loading-text {
@@ -384,7 +384,7 @@ h6 {
 }
 
 #intro {
-  background-color: #ff05c3;
+  background-color: #000000;
   box-shadow: 0px 0px 10px 10px rgba(34, 34, 34, 1);
   padding: 150px 0px 50px;
 }
