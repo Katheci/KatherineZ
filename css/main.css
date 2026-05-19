@@ -779,7 +779,7 @@ h6 {
 .timeline-content .education::before {
   content: "\f19d";
   position: relative;
-  color: #222222;
+  color: #000000;
   margin-right: 5px;
   -webkit-text-stroke: 1px #FF5EFF;
   font-family: "Font Awesome 5 Free";
@@ -799,7 +799,7 @@ h6 {
 .timeline-content .job::before {
   content: "\f0b1";
   position: relative;
-  color: #222222;
+  color: #000000;
   margin-right: 5px;
   -webkit-text-stroke: 1px #FF21B9;
   font-family: "Font Awesome 5 Free";
@@ -809,7 +809,7 @@ h6 {
 .timeline-content .company::before {
   content: "\f1ad";
   position: relative;
-  color: #222222;
+  color: #000000;
   -webkit-text-stroke: 1px #FF21B9;
   margin-right: 5px;
   font-family: "Font Awesome 5 Free";
@@ -830,7 +830,7 @@ h6 {
 .timeline-content .globe::before {
   content: "\f57e";
   position: relative;
-  color: #222222;
+  color: #000000;
   -webkit-text-stroke: 1px #FF5EFF;
   margin-right: 5px;
   font-family: "Font Awesome 5 Free";
@@ -1125,7 +1125,7 @@ footer .support ul li a:hover {
 }
 
 .footer-rights .copyright p a {
-  color: #222222;
+  color: #000000;
   text-decoration-color: transparent;
   transition: text-decoration-color 0.4s ease;
 }
@@ -1402,7 +1402,7 @@ footer .support ul li a:hover {
     margin: 0px 10px;
     border-radius: 50%;
     border: 2px solid #FF75FF;
-    background-color: #222222;
+    background-color: #000000;
     top: 0px;
     transition: background-color 0.4s;
   }
@@ -1551,7 +1551,7 @@ footer .support ul li a:hover {
   }
 
   .collapse-bg {
-    background-color: #222222;
+    background-color: #000000;
     background-image: none;
   }
 
@@ -1845,7 +1845,7 @@ footer .support ul li a:hover {
     margin: 0 auto;
     height: 85px;
     justify-content: space-around;
-    background-color: #222222;
+    background-color: #000000;
   }
 
   #intro p {
