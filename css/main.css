@@ -771,7 +771,7 @@ h6 {
   position: relative;
   color: #FF5EFF;
   margin-right: 5px;
-  -webkit-text-stroke: 1px #FF21B9;
+  -webkit-text-stroke: 1px #FF5EFF;
   font-family: "Font Awesome 5 Free";
   font-weight: 800;
 }
@@ -790,7 +790,7 @@ h6 {
   content: "\e56b";
   position: relative;
   color: #FF5EFF;
-  -webkit-text-stroke: 1px #FF21B9;
+  -webkit-text-stroke: 1px #FF5EFF;
   margin-right: 5px;
   font-family: "Font Awesome 5 Free";
   font-weight: 800;
@@ -801,7 +801,7 @@ h6 {
   position: relative;
   color: #000000;
   margin-right: 5px;
-  -webkit-text-stroke: 1px #FF21B9;
+  -webkit-text-stroke: 1px #FF5EFF;
   font-family: "Font Awesome 5 Free";
   font-weight: 800;
 }
@@ -810,7 +810,7 @@ h6 {
   content: "\f1ad";
   position: relative;
   color: #000000;
-  -webkit-text-stroke: 1px #FF21B9;
+  -webkit-text-stroke: 1px #FF5EFF;
   margin-right: 5px;
   font-family: "Font Awesome 5 Free";
   font-weight: 800;
@@ -991,7 +991,7 @@ h6 {
 }
 
 .swal-icon--success__ring {
-  border: 4px solid #FF21B9;
+  border: 4px solid #FF5EFF;
 }
 
 .swal-icon--success__line--long,
@@ -1133,7 +1133,7 @@ footer .support ul li a:hover {
 .footer-rights .copyright p a:hover {
   color: #FF5EFF;
   text-decoration-line: underline;
-  text-decoration-color: #FF21B9;
+  text-decoration-color: #FF5EFF;
   text-decoration-style: wavy;
 }
 
@@ -1168,7 +1168,7 @@ footer .support ul li a:hover {
 }
 
 .to-top i {
-  color: #FF21B9;
+  color: #FF5EFF;
 }
 
 @media (max-width: 400px) {
@@ -1583,7 +1583,7 @@ footer .support ul li a:hover {
   }
 
   .navbar li .nav-link:hover {
-    color: #FF21B9 !important;
+    color: #FF5EFF !important;
   }
 
   .js-scroll-trigger:hover {
@@ -1605,7 +1605,7 @@ footer .support ul li a:hover {
   }
 
   .navbar li .active {
-    color: #FF21B9;
+    color: #FF5EFF;
   }
 
   .navbar .navbar-toggler {
@@ -1895,7 +1895,7 @@ footer .support ul li a:hover {
   }
 
   .pink {
-    color: #FF21B9;
+    color: #FF5EFF;
     font-size: 3rem;
     font-weight: 900;
   }
