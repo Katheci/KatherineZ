@@ -437,14 +437,14 @@ h6 {
 }
 
 .btn-contact {
-  background-color: #FF21B900 !important;
+  background-color: #000000 !important;
   border: 2px solid #000000;
   transition: background-color 0.2s ease-in-out;
   cursor: pointer;
 }
 
 .btn-contact:hover {
-  background-color: #FF21B9 !important;
+  background-color: #000000 !important;
 }
 
 .intro-btns {
@@ -762,7 +762,7 @@ h6 {
 
 #milestones {
   padding: 50px 0px;
-  background-color: #ff05c3;
+  background-color: #000000;
 }
 
 .milestones {
@@ -1039,8 +1039,8 @@ h6 {
 
 #intro .button {
   color: white;
-  background-color: #FF21B9;
-  border: 2px solid #000000;
+  background-color: #000000;
+  border: 2px solid #ff05c3;
   padding: 8px 20px;
 }
 
@@ -1055,24 +1055,24 @@ h6 {
 
 .swal-icon--success__line--long,
 .swal-icon--success__line--tip {
-  background-color: #FF21B9;
+  background-color: #000000;
 }
 
 .swal-icon--success::before,
 .swal-icon--success::after,
 .swal-icon--success__hide-corners {
-  background-color: #ffffff00;
+  background-color: #000000;
 }
 
 .swal-button {
   padding: 8px;
   width: 80px;
-  background-color: #FF21B9;
+  background-color: #000000;
 }
 
 .swal-button:hover,
 .swal-button:active {
-  background-color: #FF21B9 !important;
+  background-color: #000000 !important;
 }
 
 footer {
@@ -1306,7 +1306,7 @@ footer .support ul li a:hover {
     width: 2px;
     height: 120px;
     display: block;
-    background-color: #FF21B9;
+    background-color: #000000;
     position: absolute;
     top: 0;
     left: 50%;
@@ -1368,7 +1368,7 @@ footer .support ul li a:hover {
     width: 2px;
     height: 100px;
     display: block;
-    background-color: #FF21B9;
+    background-color: #000000;
     position: absolute;
     top: 150px;
     left: 0;
@@ -1428,7 +1428,7 @@ footer .support ul li a:hover {
     transform: translateX(-50%);
     width: 2px;
     height: 104%;
-    background-color: #FF21B9;
+    background-color: #000000;
   }
 
   .timeline ul li {
@@ -1461,7 +1461,7 @@ footer .support ul li a:hover {
     margin: 0px 10px;
     border-radius: 50%;
     border: 2px solid #FF21B9;
-    background-color: #ff05c3;
+    background-color: #000000;
     top: 0px;
     transition: background-color 0.4s;
   }
@@ -1474,7 +1474,7 @@ footer .support ul li a:hover {
     margin: 0px 10px;
     border-radius: 50%;
     border: 2px solid #FF21B9;
-    background-color: #FF21B9;
+    background-color: #000000;
     bottom: -20px;
     right: -40px;
     transition: background-color 0.4s;
@@ -1512,13 +1512,13 @@ footer .support ul li a:hover {
   }
 
   .timeline ul li:hover::before {
-    background-color: #FF21B9;
+    background-color: #000000;
     scale: 120%;
   }
 
   .timeline ul .start:not(:hover)::after {
     pointer-events: none;
-    background-color: #FF21B9;
+    background-color: #000000;
   }
 
   #contact {
@@ -1610,7 +1610,7 @@ footer .support ul li a:hover {
   }
 
   .collapse-bg {
-    background-color: #ff05c3;
+    background-color: #000000;
     background-image: none;
   }
 
@@ -1625,7 +1625,7 @@ footer .support ul li a:hover {
   .navbar .nav-brand {
     position: relative;
     top: -10px;
-    background-color: #FF21B9;
+    background-color: #000000;
     display: inline-block;
     padding: 20px 10px 0px 10px;
     font-size: 2em;
@@ -1646,7 +1646,7 @@ footer .support ul li a:hover {
   }
 
   .js-scroll-trigger:hover {
-    background-color: #FF21B910 !important;
+    background-color: #000000 !important;
     border-radius: 4px;
   }
 
@@ -1718,7 +1718,7 @@ footer .support ul li a:hover {
   }
 
   .btn-contact:hover {
-    background-color: #FF21B900 !important;
+    background-color: #000000 !important;
   }
 
   .contact-btn {
@@ -1730,7 +1730,7 @@ footer .support ul li a:hover {
     content: "";
     left: -1.5px !important;
     top: -1px !important;
-    background: #FF21B9;
+    background: #000000;
     transition-duration: 0.3s;
     z-index: -1;
     inset: 0px auto auto 0px;
@@ -1746,7 +1746,7 @@ footer .support ul li a:hover {
   }
 
   .hb-fill-right-bg:hover {
-    background: #FF21B9;
+    background: #000000;
     transition: all 0.3s ease 0s;
   }
 
