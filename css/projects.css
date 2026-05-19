@@ -37,7 +37,7 @@
   transform: translateY(-50%);
   font-size: 30px;
   cursor: pointer;
-  color: #68d372;
+  color: #FF21B9;
   z-index: 10;
   background: transparent;
 }
@@ -67,7 +67,7 @@
 }
 
 .project-data-wrapper .navigation .focused {
-  background: #68d372;
+  background: #FF21B9;
   scale: 140%;
   transition: all 0.4s ease;
 }
