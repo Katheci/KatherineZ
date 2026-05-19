@@ -71,7 +71,7 @@ body {
   }
   50% {
     d: path(
-      "M 0,400 C 0,400 0,200 0,200 C 79.91025641025641,201.23076923076923 159.82051282051282,202.46153846153848 249,214 C 338.1794871794872,225.53846153846152 436.6282051282052,247.38461538461536 516,262 C 595.3717948717948,276.61538461538464 655.6666666666667,284 722,263 C 788.3333333333333,242.ff05c3ff05c303 860.7051282051282,192.6153846153846 948,171 C 1035.2948717948718,149.3846153846154 1137.5128205128203,155.53846153846152 1222,165 C 1306.4871794871797,174.46153846153848 1373.2435897435898,187.23076923076923 1440,200 C 1440,200 1440,400 1440,400 Z"
+      "M 0,400 C 0,400 0,200 0,200 C 79.91025641025641,201.23076923076923 159.82051282051282,202.46153846153848 249,214 C 338.1794871794872,225.53846153846152 436.6282051282052,247.38461538461536 516,262 C 595.3717948717948,276.61538461538464 655.6666666666667,284 722,263 C 788.3333333333333,242.FF5EFFFF5EFF03 860.7051282051282,192.6153846153846 948,171 C 1035.2948717948718,149.3846153846154 1137.5128205128203,155.53846153846152 1222,165 C 1306.4871794871797,174.46153846153848 1373.2435897435898,187.23076923076923 1440,200 C 1440,200 1440,400 1440,400 Z"
     );
   }
   75% {
@@ -494,7 +494,7 @@ h6 {
   cursor: pointer;
   align-items: center;
   justify-content: center;
-  color: #ff05c3;
+  color: #FF5EFF;
   font-weight: 600;
   margin: 10px auto;
   margin-bottom: 25px;
@@ -676,7 +676,7 @@ h6 {
 #skills .container .div-card span {
   position: relative;
   display: table;
-  color: #ff05c3;
+  color: #FF5EFF;
   font-size: 15px;
   margin-top: 90px;
   margin-left: auto;
@@ -769,7 +769,7 @@ h6 {
 .timeline-content .birth::before {
   content: "\f1fd";
   position: relative;
-  color: #ff05c3;
+  color: #FF5EFF;
   margin-right: 5px;
   -webkit-text-stroke: 1px #FF21B9;
   font-family: "Font Awesome 5 Free";
@@ -789,7 +789,7 @@ h6 {
 .timeline-content .school::before {
   content: "\e56b";
   position: relative;
-  color: #ff05c3;
+  color: #FF5EFF;
   -webkit-text-stroke: 1px #FF21B9;
   margin-right: 5px;
   font-family: "Font Awesome 5 Free";
@@ -824,7 +824,7 @@ h6 {
 }
 
 .timeline-content .description {
-  color: #ff05c3;
+  color: #FF5EFF;
 }
 
 .timeline-content .globe::before {
@@ -845,7 +845,7 @@ h6 {
 
 .timeline-content .date {
   font-size: 12px;
-  color: #ff05c3;
+  color: #FF5EFF;
   font-weight: 600;
   margin-bottom: 10px;
   letter-spacing: 2px;
@@ -902,7 +902,7 @@ h6 {
   background-color: transparent;
   border-radius: 0px;
   border: 0px;
-  border-bottom: 1px solid #ff05c3;
+  border-bottom: 1px solid #FF5EFF;
 }
 
 .contact-bg {
@@ -981,7 +981,7 @@ h6 {
 #intro .button {
   color: white;
   background-color: #FF5EFF;
-  border: 2px solid #ff05c3;
+  border: 2px solid #FF5EFF;
   padding: 8px 20px;
 }
 
@@ -1032,13 +1032,13 @@ footer ul {
 footer ul li,
 .footer-nav ul li a,
 footer .support ul li a {
-  color: #ff05c3;
+  color: #FF5EFF;
 }
 
 footer ul li:hover,
 .footer-nav ul li a:hover,
 footer .support ul li a:hover {
-  color: #ff05c3;
+  color: #FF5EFF;
   text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.1);
 }
 
@@ -1443,7 +1443,7 @@ footer .support ul li a:hover {
 
   .timeline-content .date {
     position: absolute;
-    color: #ff05c3;
+    color: #FF5EFF;
     top: -30px;
     left: 0px;
   }
