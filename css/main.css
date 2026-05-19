@@ -17,7 +17,7 @@ html {
 
 body {
   font-family: "Poppins", sans-serif;
-  color: #000000;
+  color: #ff05c3;
   min-width: 320px;
   scrollbar-gutter: auto;
 }
@@ -34,7 +34,7 @@ body {
 ::-webkit-scrollbar {
   position: absolute;
   width: 8px;
-  background: #000000;
+  background: #ff05c3;
   transition: border-radius 1s;
   margin-top: 40px;
 }
@@ -71,7 +71,7 @@ body {
   }
   50% {
     d: path(
-      "M 0,400 C 0,400 0,200 0,200 C 79.91025641025641,201.23076923076923 159.82051282051282,202.46153846153848 249,214 C 338.1794871794872,225.53846153846152 436.6282051282052,247.38461538461536 516,262 C 595.3717948717948,276.61538461538464 655.6666666666667,284 722,263 C 788.3333333333333,242.00000000000003 860.7051282051282,192.6153846153846 948,171 C 1035.2948717948718,149.3846153846154 1137.5128205128203,155.53846153846152 1222,165 C 1306.4871794871797,174.46153846153848 1373.2435897435898,187.23076923076923 1440,200 C 1440,200 1440,400 1440,400 Z"
+      "M 0,400 C 0,400 0,200 0,200 C 79.91025641025641,201.23076923076923 159.82051282051282,202.46153846153848 249,214 C 338.1794871794872,225.53846153846152 436.6282051282052,247.38461538461536 516,262 C 595.3717948717948,276.61538461538464 655.6666666666667,284 722,263 C 788.3333333333333,242.ff05c3ff05c303 860.7051282051282,192.6153846153846 948,171 C 1035.2948717948718,149.3846153846154 1137.5128205128203,155.53846153846152 1222,165 C 1306.4871794871797,174.46153846153848 1373.2435897435898,187.23076923076923 1440,200 C 1440,200 1440,400 1440,400 Z"
     );
   }
   75% {
@@ -140,14 +140,14 @@ h1 {
 
 h2 {
   font-weight: 800;
-  color: #000000;
+  color: #ff05c3;
 }
 
 h3,
 h4,
 h5,
 h6 {
-  color: #000000;
+  color: #ff05c3;
   font-weight: 600;
 }
 
@@ -167,7 +167,7 @@ h6 {
   margin: 0 auto;
   padding: 30px 0;
   height: 85px;
-  background-color: #000000;
+  background-color: #ff05c3;
   box-shadow: 0 0px 4px 0px rgba(0, 0, 0, 0.8);
 }
 
@@ -310,7 +310,7 @@ h6 {
 }
 
 .navbar-collapse {
-  background-color: #000000;
+  background-color: #ff05c3;
   box-shadow: rgba(0, 0, 0, 0.4) 0px 10px 40px 0px;
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
@@ -362,7 +362,7 @@ h6 {
   cursor: default;
   z-index: 10;
   opacity: 1;
-  background-color: #000000;
+  background-color: #ff05c3;
 }
 
 .loading-text {
@@ -384,7 +384,7 @@ h6 {
 }
 
 #intro {
-  background-color: #000000;
+  background-color: #ff05c3;
   box-shadow: 0px 0px 10px 10px rgba(34, 34, 34, 1);
   padding: 150px 0px 50px;
 }
@@ -462,7 +462,7 @@ h6 {
 .intro-p-url {
   text-decoration: underline;
   display: inline-block !important;
-  color: #000000;
+  color: #ff05c3;
 }
 
 .intro-p-url:hover {
@@ -498,7 +498,7 @@ h6 {
   cursor: pointer;
   align-items: center;
   justify-content: center;
-  color: #000000;
+  color: #ff05c3;
   font-weight: 600;
   margin: 10px auto;
   margin-bottom: 25px;
@@ -604,7 +604,7 @@ h6 {
 }
 
 #skills {
-  background-color: #000000;
+  background-color: #ff05c3;
   box-shadow: 0px 0px 10px 10px rgba(34, 34, 34, 1);
   padding: 80px 0px;
 }
@@ -633,7 +633,7 @@ h6 {
   width: 80px;
   height: 80px;
   margin-bottom: 15px;
-  background-color: #000000;
+  background-color: #ff05c3;
   box-shadow: 5px 5px 15px #181818, -5px -5px 15px #2c2c2c;
   transition: background-color 0.2s ease, border-radius 0.2s ease;
 }
@@ -680,7 +680,7 @@ h6 {
 #skills .container .div-card span {
   position: relative;
   display: table;
-  color: #000000;
+  color: #ff05c3;
   font-size: 15px;
   margin-top: 90px;
   margin-left: auto;
@@ -762,7 +762,7 @@ h6 {
 
 #milestones {
   padding: 50px 0px;
-  background-color: #000000;
+  background-color: #ff05c3;
 }
 
 .milestones {
@@ -788,7 +788,7 @@ h6 {
 
 .timeline ul li {
   padding: 10px;
-  background-color: #000000;
+  background-color: #ff05c3;
   border: 2px solid #FF21B9;
   box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.5);
   text-align: left;
@@ -812,7 +812,7 @@ h6 {
 .timeline-content .birth::before {
   content: "\f1fd";
   position: relative;
-  color: #000000;
+  color: #ff05c3;
   margin-right: 5px;
   -webkit-text-stroke: 1px #FF21B9;
   font-family: "Font Awesome 5 Free";
@@ -822,7 +822,7 @@ h6 {
 .timeline-content .education::before {
   content: "\f19d";
   position: relative;
-  color: #000000;
+  color: #ff05c3;
   margin-right: 5px;
   -webkit-text-stroke: 1px #FF21B9;
   font-family: "Font Awesome 5 Free";
@@ -832,7 +832,7 @@ h6 {
 .timeline-content .school::before {
   content: "\e56b";
   position: relative;
-  color: #000000;
+  color: #ff05c3;
   -webkit-text-stroke: 1px #FF21B9;
   margin-right: 5px;
   font-family: "Font Awesome 5 Free";
@@ -842,7 +842,7 @@ h6 {
 .timeline-content .job::before {
   content: "\f0b1";
   position: relative;
-  color: #000000;
+  color: #ff05c3;
   margin-right: 5px;
   -webkit-text-stroke: 1px #FF21B9;
   font-family: "Font Awesome 5 Free";
@@ -852,7 +852,7 @@ h6 {
 .timeline-content .company::before {
   content: "\f1ad";
   position: relative;
-  color: #000000;
+  color: #ff05c3;
   -webkit-text-stroke: 1px #FF21B9;
   margin-right: 5px;
   font-family: "Font Awesome 5 Free";
@@ -867,13 +867,13 @@ h6 {
 }
 
 .timeline-content .description {
-  color: #000000;
+  color: #ff05c3;
 }
 
 .timeline-content .globe::before {
   content: "\f57e";
   position: relative;
-  color: #000000;
+  color: #ff05c3;
   -webkit-text-stroke: 1px #FF21B9;
   margin-right: 5px;
   font-family: "Font Awesome 5 Free";
@@ -888,7 +888,7 @@ h6 {
 
 .timeline-content .date {
   font-size: 12px;
-  color: #000000;
+  color: #ff05c3;
   font-weight: 600;
   margin-bottom: 10px;
   letter-spacing: 2px;
@@ -945,7 +945,7 @@ h6 {
   background-color: transparent;
   border-radius: 0px;
   border: 0px;
-  border-bottom: 1px solid #000000;
+  border-bottom: 1px solid #ff05c3;
 }
 
 .contact-bg {
@@ -1091,13 +1091,13 @@ footer ul {
 footer ul li,
 .footer-nav ul li a,
 footer .support ul li a {
-  color: #000000;
+  color: #ff05c3;
 }
 
 footer ul li:hover,
 .footer-nav ul li a:hover,
 footer .support ul li a:hover {
-  color: #000000;
+  color: #ff05c3;
   text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.1);
 }
 
@@ -1184,7 +1184,7 @@ footer .support ul li a:hover {
 }
 
 .footer-rights .copyright p a {
-  color: #000000;
+  color: #ff05c3;
   text-decoration-color: transparent;
   transition: text-decoration-color 0.4s ease;
 }
@@ -1461,7 +1461,7 @@ footer .support ul li a:hover {
     margin: 0px 10px;
     border-radius: 50%;
     border: 2px solid #FF21B9;
-    background-color: #000000;
+    background-color: #ff05c3;
     top: 0px;
     transition: background-color 0.4s;
   }
@@ -1502,7 +1502,7 @@ footer .support ul li a:hover {
 
   .timeline-content .date {
     position: absolute;
-    color: #000000;
+    color: #ff05c3;
     top: -30px;
     left: 0px;
   }
@@ -1610,7 +1610,7 @@ footer .support ul li a:hover {
   }
 
   .collapse-bg {
-    background-color: #000000;
+    background-color: #ff05c3;
     background-image: none;
   }
 
@@ -1904,7 +1904,7 @@ footer .support ul li a:hover {
     margin: 0 auto;
     height: 85px;
     justify-content: space-around;
-    background-color: #000000;
+    background-color: #ff05c3;
   }
 
   #intro p {
