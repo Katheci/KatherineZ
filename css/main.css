@@ -17,7 +17,7 @@ html {
 
 body {
   font-family: "Poppins", sans-serif;
-  color: #ff05c3;
+  color: #000000;
   min-width: 320px;
   scrollbar-gutter: auto;
 }
@@ -40,7 +40,7 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #000000;
+  background: #FF5EFF;
   border-radius: 4px;
 }
 
@@ -91,13 +91,13 @@ a {
 }
 
 a:hover {
-  color: #FF21B9;
+  color: #FF5EFF;
 }
 
 nav .cv-download {
   color: #ffffff;
   border: none;
-  background-color: #000000;
+  background-color: #FF5EFF;
   padding: 15px 20px;
   /* padding: 15px auto; */
 }
@@ -110,7 +110,7 @@ input,
 textarea {
   border-radius: 0px;
   padding-left: 0px !important;
-  color: #b1b1b1 !important;
+  color: #000000 !important;
 }
 
 input:focus,
@@ -140,19 +140,19 @@ h1 {
 
 h2 {
   font-weight: 800;
-  color: #ff05c3;
+  color: #000000;
 }
 
 h3,
 h4,
 h5,
 h6 {
-  color: #ff05c3;
+  color: #000000;
   font-weight: 600;
 }
 
 .pink {
-  color: #FF21B9;
+  color: #FF5EFF;
   font-size: 30px;
   font-weight: 900;
 }
@@ -174,7 +174,7 @@ h6 {
 .navbar .nav-brand {
   position: absolute;
   top: 0;
-  background-color: #000000;
+  background-color: #FF5EFF;
   display: inline-block;
   border-bottom-left-radius: 4px;
   border-bottom-right-radius: 4px;
@@ -201,18 +201,18 @@ h6 {
 }
 
 .navbar li .nav-link:hover {
-  color: #FF21B9;
+  color: #FF5EFF;
 }
 
 .navbar li .active {
-  color: #FF21B9;
+  color: #FF5EFF;
 }
 
 .navbar .button {
   position: relative;
   float: right;
   color: white;
-  background-color: #000000;
+  background-color: #FF5EFF;
   width: max-content;
   cursor: pointer;
 }
@@ -271,7 +271,7 @@ h6 {
 
 #nav-icon span:nth-child(2) {
   top: 10px;
-  background-color: #000000;
+  background-color: #FF5EFF;
 }
 
 #nav-icon span:nth-child(3) {
@@ -320,10 +320,6 @@ h6 {
   overflow: hidden;
 }
 
-.cv-download {
-  display: none;
-}
-
 .scroll-progress-track {
   position: fixed;
   top: 80px;
@@ -334,7 +330,7 @@ h6 {
 
 #progress-bar {
   height: 5px;
-  background-color: #000000;
+  background-color: #FF5EFF;
   width: 0%;
 }
 
@@ -346,8 +342,8 @@ h6 {
   font-size: 20px;
   font-family: "Koulen";
   letter-spacing: 1px;
-  color: #FF21B9 !important;
-  border: 2px solid #FF21B9;
+  color: #FF5EFF !important;
+  border: 2px solid #FF5EFF;
   border-radius: 20px;
   box-shadow: 10px 10px 30px #1d1d1d50, -10px -10px 30px #27272750;
 }
@@ -376,7 +372,7 @@ h6 {
 }
 
 .section-title {
-  color: #FF21B9;
+  color: #FF5EFF;
   font-weight: bold;
   font-size: 20px;
   text-align: center;
@@ -414,7 +410,7 @@ h6 {
 }
 
 #intro-p:hover {
-  color: #FF21B9;
+  color: #FF5EFF;
   display: inline-block;
   animation: rubberBand;
   animation-duration: 1s;
@@ -437,14 +433,14 @@ h6 {
 }
 
 .btn-contact {
-  background-color: #000000 !important;
-  border: 2px solid #000000;
+  background-color: #FF75FF !important;
+  border: 2px solid #FF5EFF;
   transition: background-color 0.2s ease-in-out;
   cursor: pointer;
 }
 
 .btn-contact:hover {
-  background-color: #000000 !important;
+  background-color: #FF5EFF !important;
 }
 
 .intro-btns {
@@ -462,12 +458,12 @@ h6 {
 .intro-p-url {
   text-decoration: underline;
   display: inline-block !important;
-  color: #ff05c3;
+  color: #FF75FF;
 }
 
 .intro-p-url:hover {
   cursor: pointer;
-  color: #FF21B9 !important;
+  color: #FF5EFF !important;
   text-decoration: underline;
   animation: rubberBand;
   animation-duration: 1s;
@@ -505,7 +501,7 @@ h6 {
 }
 
 #intro .scroll:hover {
-  color: #FF21B9;
+  color: #FF5EFF;
   transition: color 0.5s ease-in-out;
   animation: flash;
   animation-duration: 1s;
@@ -591,7 +587,7 @@ h6 {
   width: 100%;
   cursor: grab;
   margin-bottom: 25px;
-  border-left: 5px solid #FF21B9;
+  border-left: 5px solid #FF5EFF;
   border-radius: 8px;
 }
 
@@ -656,7 +652,7 @@ h6 {
 }
 
 #skills .container .div-card-item:hover #skills .container .div-card span {
-  color: #FF21B9;
+  color: #FF5EFF;
 }
 
 #skills .container .div-card .skill-level {
@@ -689,62 +685,23 @@ h6 {
 
 /*Icons - Programming Languages & Frameworks */
 
-#skills .container .div-card .mongodb {
-  background-image: url("../img/icon/mongodb.png");
-}
-#skills .container .div-card .node-js {
-  background-image: url("../img/icon/node-js.png");
-}
-#skills .container .div-card .express-js {
-  background-image: url("../img/icon/express-js.png");
-}
 #skills .container .div-card .html {
   background-image: url("../img/icon/html-5.png");
 }
 #skills .container .div-card .css {
   background-image: url("../img/icon/css-3.png");
 }
-#skills .container .div-card .js {
-  background-image: url("../img/icon/js.png");
-}
-#skills .container .div-card .python {
-  background-image: url("../img/icon/python.png");
-}
-#skills .container .div-card .next-js {
-  background-image: url("../img/icon/next-js.png");
-}
-#skills .container .div-card .typescript {
-  background-image: url("../img/icon/typescript.png");
-}
-#skills .container .div-card .react-js {
-  background-image: url("../img/icon/react-js.png");
-}
 
 /*Icons - Tools & Other Skills */
 
-#skills .container .div-card .git {
-  background-image: url("../img/icon/git.png");
-}
 #skills .container .div-card .ux-ui {
   background-image: url("../img/icon/ui-ux.png");
-}
-#skills .container .div-card .docker {
-  background-image: url("../img/icon/docker.png");
-}
-#skills .container .div-card .devops {
-  background-image: url("../img/icon/devops.png");
 }
 
 /*Icons - Languages */
 
-#skills .container .div-card .sinhala {
-  background-image: url("../img/icon/lang-si.png");
-}
 #skills .container .div-card .english {
   background-image: url("../img/icon/lang-en.png");
-}
-#skills .container .div-card .tamil {
-  background-image: url("../img/icon/lang-ta.png");
 }
 
 .card-buttons {
@@ -789,7 +746,7 @@ h6 {
 .timeline ul li {
   padding: 10px;
   background-color: #000000;
-  border: 2px solid #FF21B9;
+  border: 2px solid #FF5EFF;
   box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.5);
   text-align: left;
   color: white;
@@ -822,9 +779,9 @@ h6 {
 .timeline-content .education::before {
   content: "\f19d";
   position: relative;
-  color: #ff05c3;
+  color: #222222;
   margin-right: 5px;
-  -webkit-text-stroke: 1px #FF21B9;
+  -webkit-text-stroke: 1px #FF5EFF;
   font-family: "Font Awesome 5 Free";
   font-weight: 800;
 }
@@ -842,7 +799,7 @@ h6 {
 .timeline-content .job::before {
   content: "\f0b1";
   position: relative;
-  color: #ff05c3;
+  color: #222222;
   margin-right: 5px;
   -webkit-text-stroke: 1px #FF21B9;
   font-family: "Font Awesome 5 Free";
@@ -852,7 +809,7 @@ h6 {
 .timeline-content .company::before {
   content: "\f1ad";
   position: relative;
-  color: #ff05c3;
+  color: #222222;
   -webkit-text-stroke: 1px #FF21B9;
   margin-right: 5px;
   font-family: "Font Awesome 5 Free";
@@ -873,8 +830,8 @@ h6 {
 .timeline-content .globe::before {
   content: "\f57e";
   position: relative;
-  color: #ff05c3;
-  -webkit-text-stroke: 1px #FF21B9;
+  color: #222222;
+  -webkit-text-stroke: 1px #FF5EFF;
   margin-right: 5px;
   font-family: "Font Awesome 5 Free";
   font-weight: 800;
@@ -897,8 +854,8 @@ h6 {
 .timeline-content .date::before {
   content: "\f783";
   position: relative;
-  color: #FF21B950;
-  -webkit-text-stroke: 1px #FF21B9;
+  color: #68d37250;
+  -webkit-text-stroke: 1px #FF5EFF;
   margin-right: 5px;
   font-family: "Font Awesome 5 Free";
   font-weight: 800;
@@ -929,7 +886,7 @@ h6 {
 
 .btn-send-message {
   color: #ffffff;
-  background-color: #000000;
+  background-color: #FF5EFF;
   pointer-events: auto !important;
   padding: 8px 20px;
   cursor: pointer !important;
@@ -1021,25 +978,9 @@ h6 {
   margin-bottom: 10px;
 }
 
-.col3 .github {
-  background-image: url("/img/icon/github.png");
-}
-.col3 .stack-overflow {
-  background-image: url("/img/icon/stack-overflow.png");
-}
-.col3 .linkedin {
-  background-image: url("/img/icon/linkedin.png");
-}
-.col3 .twitter {
-  background-image: url("/img/icon/twitter.png");
-}
-.col3 .facebook {
-  background-image: url("/img/icon/facebook.png");
-}
-
 #intro .button {
   color: white;
-  background-color: #000000;
+  background-color: #FF5EFF;
   border: 2px solid #ff05c3;
   padding: 8px 20px;
 }
@@ -1055,24 +996,24 @@ h6 {
 
 .swal-icon--success__line--long,
 .swal-icon--success__line--tip {
-  background-color: #000000;
+  background-color: #FF5EFF;
 }
 
 .swal-icon--success::before,
 .swal-icon--success::after,
 .swal-icon--success__hide-corners {
-  background-color: #000000;
+  background-color: #FF5EFF;
 }
 
 .swal-button {
   padding: 8px;
   width: 80px;
-  background-color: #000000;
+  background-color: #FF5EFF;
 }
 
 .swal-button:hover,
 .swal-button:active {
-  background-color: #000000 !important;
+  background-color: #FF5EFF !important;
 }
 
 footer {
@@ -1184,13 +1125,13 @@ footer .support ul li a:hover {
 }
 
 .footer-rights .copyright p a {
-  color: #ff05c3;
+  color: #222222;
   text-decoration-color: transparent;
   transition: text-decoration-color 0.4s ease;
 }
 
 .footer-rights .copyright p a:hover {
-  color: #FF21B9;
+  color: #FF5EFF;
   text-decoration-line: underline;
   text-decoration-color: #FF21B9;
   text-decoration-style: wavy;
@@ -1306,7 +1247,7 @@ footer .support ul li a:hover {
     width: 2px;
     height: 120px;
     display: block;
-    background-color: #000000;
+    background-color: #FF75FF;
     position: absolute;
     top: 0;
     left: 50%;
@@ -1368,7 +1309,7 @@ footer .support ul li a:hover {
     width: 2px;
     height: 100px;
     display: block;
-    background-color: #000000;
+    background-color: #FF75FF;
     position: absolute;
     top: 150px;
     left: 0;
@@ -1428,7 +1369,7 @@ footer .support ul li a:hover {
     transform: translateX(-50%);
     width: 2px;
     height: 104%;
-    background-color: #000000;
+    background-color: #FF75FF;
   }
 
   .timeline ul li {
@@ -1460,8 +1401,8 @@ footer .support ul li a:hover {
     width: 20px;
     margin: 0px 10px;
     border-radius: 50%;
-    border: 2px solid #FF21B9;
-    background-color: #000000;
+    border: 2px solid #FF75FF;
+    background-color: #222222;
     top: 0px;
     transition: background-color 0.4s;
   }
@@ -1473,8 +1414,8 @@ footer .support ul li a:hover {
     width: 20px;
     margin: 0px 10px;
     border-radius: 50%;
-    border: 2px solid #FF21B9;
-    background-color: #000000;
+    border: 2px solid #FF5EFF;
+    background-color: #FF5EFF;
     bottom: -20px;
     right: -40px;
     transition: background-color 0.4s;
@@ -1512,13 +1453,13 @@ footer .support ul li a:hover {
   }
 
   .timeline ul li:hover::before {
-    background-color: #000000;
+    background-color: #FF75FF;
     scale: 120%;
   }
 
   .timeline ul .start:not(:hover)::after {
     pointer-events: none;
-    background-color: #000000;
+    background-color: #FF75FF;
   }
 
   #contact {
@@ -1610,7 +1551,7 @@ footer .support ul li a:hover {
   }
 
   .collapse-bg {
-    background-color: #000000;
+    background-color: #222222;
     background-image: none;
   }
 
@@ -1625,7 +1566,7 @@ footer .support ul li a:hover {
   .navbar .nav-brand {
     position: relative;
     top: -10px;
-    background-color: #000000;
+    background-color: #FF75FF;
     display: inline-block;
     padding: 20px 10px 0px 10px;
     font-size: 2em;
@@ -1646,7 +1587,7 @@ footer .support ul li a:hover {
   }
 
   .js-scroll-trigger:hover {
-    background-color: #000000 !important;
+    background-color: #68d37210 !important;
     border-radius: 4px;
   }
 
@@ -1718,7 +1659,7 @@ footer .support ul li a:hover {
   }
 
   .btn-contact:hover {
-    background-color: #000000 !important;
+    background-color: #FF75FF !important;
   }
 
   .contact-btn {
@@ -1730,7 +1671,7 @@ footer .support ul li a:hover {
     content: "";
     left: -1.5px !important;
     top: -1px !important;
-    background: #000000;
+    background: #FF5EFF;
     transition-duration: 0.3s;
     z-index: -1;
     inset: 0px auto auto 0px;
@@ -1746,7 +1687,7 @@ footer .support ul li a:hover {
   }
 
   .hb-fill-right-bg:hover {
-    background: #000000;
+    background: #FF5EFF;
     transition: all 0.3s ease 0s;
   }
 
@@ -1755,7 +1696,7 @@ footer .support ul li a:hover {
     width: 122px;
     height: 2px;
     display: block;
-    background-color: #ff05c3;
+    background-color: #FF5EFF;
     position: absolute;
     top: 115px;
     left: -140px;
@@ -1801,7 +1742,7 @@ footer .support ul li a:hover {
     width: 2px;
     height: 100px;
     display: block;
-    background-color: #FF21B9;
+    background-color: #FF5EFF;
     position: absolute;
     top: 150px;
     left: -50px !important;
@@ -1904,7 +1845,7 @@ footer .support ul li a:hover {
     margin: 0 auto;
     height: 85px;
     justify-content: space-around;
-    background-color: #ff05c3;
+    background-color: #222222;
   }
 
   #intro p {
@@ -2020,6 +1961,6 @@ footer .support ul li a:hover {
   }
 
   .to-top i {
-    color: #FF21B9;
+    color: #FF5EFF;
   }
 }
