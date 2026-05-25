@@ -685,8 +685,8 @@ h6 {
 
 /*Icons - Programming Languages & Frameworks */
 
-#skills .container .div-card .html {
-  background-image: url("../img/icon/html-5.png");
+#skills .container .div-card .responsive {
+  background-image: url("../img/icon/responsive.png");
 }
 #skills .container .div-card .css {
   background-image: url("../img/icon/css-3.png");
