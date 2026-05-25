@@ -688,20 +688,41 @@ h6 {
 #skills .container .div-card .responsive {
   background-image: url("../img/icon/responsive.png");
 }
-#skills .container .div-card .css {
-  background-image: url("../img/icon/css-3.png");
+#skills .container .div-card .branding {
+  background-image: url("../img/icon/branding.png");
 }
-
-/*Icons - Tools & Other Skills */
-
+skills .container .div-card .cyhtml {
+  background-image: url("../img/icon/cyhtml.png");
+}
 #skills .container .div-card .ux-ui {
   background-image: url("../img/icon/ui-ux.png");
 }
 
+/*Icons - Tools & Other Skills */
+
+#skills .container .div-card .canva {
+  background-image: url("../img/icon/canva.png");
+}
+#skills .container .div-card .figma {
+  background-image: url("../img/icon/figma.png");
+}
+#skills .container .div-card .shopify {
+  background-image: url("../img/icon/shopify.png");
+}
+#skills .container .div-card .github {
+  background-image: url("../img/icon/github.png");
+}
+
 /*Icons - Languages */
 
-#skills .container .div-card .english {
-  background-image: url("../img/icon/lang-en.png");
+#skills .container .div-card .ingles {
+  background-image: url("../img/icon/ingles.png");
+}
+#skills .container .div-card .español {
+  background-image: url("../img/icon/español.webp");
+}
+#skills .container .div-card .aleman {
+  background-image: url("../img/icon/aleman.jpg");
 }
 
 .card-buttons {
