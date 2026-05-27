@@ -918,45 +918,6 @@ const projectData = [
     techStack: ["Comunicación visual", "Organización", "Branding", "Trabajo en equipo"],
     srcURL:
   },
-  {
-    title: "My Battery",
-    subTitle:
-      "Simple website that display the battery status of your device and the charging status.",
-    thumbnail: "../img/thumbnails/my-battery-thumbnail.png",
-    description:
-      "My Battery is a simple and minimalistic web application that displays your battery percentage, charging status, and whether the battery is low or full. It's important to note that this is a website-based application.",
-    techStack: ["JavaScript", "HTML", "Tailwind CSS", "CSS"],
-    srcURL: "https://mybattery.vercel.app/",
-  },
-  {
-    title: "SysInfo",
-    subTitle: "Web based terminal emulator",
-    thumbnail: "../img/thumbnails/sys-info-thumbnail.png",
-    description:
-      "SysInfo is a web based terminal emulator which you can run basic commands like help, clear, battery, weather and etc.",
-    techStack: ["JavaScript", "HTML", "CSS", "Tailwind CSS"],
-    srcURL: "https://sys-info.vercel.app/",
-  },
-  {
-    title: "Project Title",
-    subTitle:
-      "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minima nobis quia et.",
-    thumbnail: "../img/projects-default.jpg",
-    description:
-      "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi placeat magnam eveniet accusamus tenetur maxime aspernatur deleniti rerum praesentium ducimus minima facilis consectetur expedita, mollitia molestias qui dolorem quam laudantium. Repellendus sunt harum fugiat natus. dolor sit amet consectetur, adipisicing elit. Minima nobis quia et.",
-    techStack: ["Stack"],
-    srcURL: "",
-  },
-  {
-    title: "Project Title",
-    subTitle:
-      "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Minima nobis quia et.",
-    thumbnail: "../img/projects-default.jpg",
-    description:
-      "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi placeat magnam eveniet accusamus tenetur maxime aspernatur deleniti rerum praesentium ducimus minima facilis consectetur expedita, mollitia molestias qui dolorem quam laudantium. Repellendus sunt harum fugiat natus. dolor sit amet consectetur, adipisicing elit. Minima nobis quia et.",
-    techStack: ["Stack"],
-    srcURL: "",
-  },
   // Add more objects for additional projectData here
 ];
 
