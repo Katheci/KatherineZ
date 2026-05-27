@@ -1924,22 +1924,15 @@ footer .support ul li a:hover {
 }
 
 .intro-img {
-  width: 85%;
-  max-width: 520px;
-  height: auto;
-
+  width: 80%;
+  max-width: 480px;
   border-radius: 50%;
-  
-  filter:
-    drop-shadow(0 0 20px #ff079e)
-    drop-shadow(0 0 60px #ff079e);
+  border: 4px solid #ff079e;
+
+  box-shadow:
+    0 0 20px #ff079e,
+    0 0 40px #ff079e,
+    0 0 80px rgba(255, 7, 158, 0.5);
 
   object-fit: cover;
-}
-
-/* Contenedor */
-#intro .img {
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
