@@ -916,7 +916,7 @@ const projectData = [
     description:
       "Participación en la creación de materiales visuales y coordinación de comunicación para campañas informativas.",
     techStack: ["Comunicación visual", "Organización", "Branding", "Trabajo en equipo"],
-    srcURL:
+    srcURL: "", 
   },
   // Add more objects for additional projectData here
 ];
