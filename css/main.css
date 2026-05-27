@@ -695,13 +695,13 @@ skills .container .div-card .front {
   background-image: url("../img/icon/front.png");
 }
 #skills .container .div-card .ux {
-  background-image: url("../img/icon/ux");
+  background-image: url("../img/icon/ux.png");
 }
 
 /*Icons - Tools & Other Skills */
 
 #skills .container .div-card .canv {
-  background-image: url("../img/icon/canv.webp");
+  background-image: url("../img/icon/canv.png");
 }
 #skills .container .div-card .fig {
   background-image: url("../img/icon/fig.png");
@@ -719,10 +719,10 @@ skills .container .div-card .front {
   background-image: url("../img/icon/ingles.png");
 }
 #skills .container .div-card .espan {
-  background-image: url("../img/icon/espan.webp");
+  background-image: url("../img/icon/espan.png");
 }
 #skills .container .div-card .alem {
-  background-image: url("../img/icon/alem.jpg");
+  background-image: url("../img/icon/alem.png");
 }
 
 .card-buttons {
