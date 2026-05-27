@@ -688,11 +688,11 @@ h6 {
 #skills .container .div-card .web {
   background-image: url("../img/icon/web.png");
 }
-#skills .container .div-card .branding {
-  background-image: url("../img/icon/branding.png");
+#skills .container .div-card .brandi {
+  background-image: url("../img/icon/brandi.png");
 }
-skills .container .div-card .fron {
-  background-image: url("../img/icon/fron.png");
+skills .container .div-card .front {
+  background-image: url("../img/icon/front.png");
 }
 #skills .container .div-card .ux {
   background-image: url("../img/icon/ux");
@@ -700,8 +700,8 @@ skills .container .div-card .fron {
 
 /*Icons - Tools & Other Skills */
 
-#skills .container .div-card .canva {
-  background-image: url("../img/icon/canva.webp");
+#skills .container .div-card .canv {
+  background-image: url("../img/icon/canv.webp");
 }
 #skills .container .div-card .fig {
   background-image: url("../img/icon/fig.png");
@@ -721,8 +721,8 @@ skills .container .div-card .fron {
 #skills .container .div-card .espan {
   background-image: url("../img/icon/espan.webp");
 }
-#skills .container .div-card .aleman {
-  background-image: url("../img/icon/aleman.jpg");
+#skills .container .div-card .alem {
+  background-image: url("../img/icon/alem.jpg");
 }
 
 .card-buttons {
