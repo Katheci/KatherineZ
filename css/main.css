@@ -691,7 +691,7 @@ h6 {
 #skills .container .div-card .brandi {
   background-image: url("../img/icon/brandi.png");
 }
-skills .container .div-card .chtml {
+#skills .container .div-card .chtml {
   background-image: url("../img/icon/chtml.png");
 }
 #skills .container .div-card .ux {
