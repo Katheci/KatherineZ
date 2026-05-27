@@ -887,36 +887,36 @@ const projectData = [
     thumbnail: "../img/thumbnails/venus.png",
     description:
       "Proyecto enfocado en branding digital, experiencia de usuario y diseño visual para e-commerce. Desarrollo y personalización de una tienda online explorando estructura visual, navegación y experiencia de compra.",
-    techStack: ["Ruby on Rails", "Lua", "React", "DevOps"],
+    techStack: ["Shopify", "UI/UX", "Branding", "Diseño responsive", "Experiencia de usuario"],
     srcURL: "https://venusex-shop.myshopify.com",
   },
   {
-    title: "CutLink",
-    subTitle: "Here you have full control over your links.",
+    title: "Portafolio Interactivo Personal",
+    subTitle: "Diseño y desarrollo de portafolio interactivo.",
     thumbnail: "../img/thumbnails/cutlink-thumbnail.png",
     description:
-      "CutLink is a modern and user-friendly web application built with React and Material UI. Our platform offers a complete solution for link shortening. With CutLink, you can create short, branded links that are easy to share. Try CutLink today and experience the power of a smarter link shortning platform!",
-    techStack: ["React", "MUI"],
-    srcURL: "https://cut-link.netlify.app/",
+      "Creación y personalización de un portfolio web interactivo enfocado en diseño visual, frontend creativo y experiencias digitales modernas.",
+    techStack: ["HTML", "CSS", "GitHub", "Diseño interactivo", "Fronted básico"],
+    srcURL: "https://katheci.github.io/KatherineZ/",
   },
   {
-    title: "MindMate",
+    title: "Concepto UI/UX",
     subTitle:
-      "Unlock the power of your mind with our AI-Driven mental health web application",
+      "Diseño conceptual de interfaz moderna",
     thumbnail: "../img/thumbnails/mindmate-thumbnail.png",
     description:
-      "MindMate is a web application that provides mental health solutions using artificial intelligence powered by OpenAI. It is designed to help individuals struggling with mental health issues to improve their well-being and overall quality of life. The app provides personalized and confidential support to users by analyzing their symptoms, emotions, and behavior. MindMate uses advanced algorithms to identify patterns in user data and provide them with tailored recommendations for managing their mental health.",
-    techStack: ["Next.js", "React", "Node.js"],
-    srcURL: "https://mind-mate.vercel.app/",
+      "Desarrollo de propuesta visual enfocada en experiencia de usuario, jerarquía visual e interacción moderna para una landing page.",
+    techStack: ["Figma", "UI Design", "UX Thinking", "Responsive Design"],
+    srcURL: "https://katheci.github.io/KatherineZ/",
   },
   {
-    title: "GitTrack",
-    subTitle: "Gain insights and strengthen your GitHub connections",
+    title: "Proyecto de comunicación visual",
+    subTitle: "Desarrollo visual y coordinacion de campaña",
     thumbnail: "../img/thumbnails/gittrack-thumbnail.png",
     description:
-      "GitTrack - an innovative web application designed to empower GitHub users with powerful network analysis tools. With GitTrack, you can effortlessly track and analyze your followers, identifying those who are not reciprocating the follow. Take control of your GitHub presence, strengthen your connections, and optimize your network. Gain valuable insights and make informed decisions to build a strong and engaged community.",
-    techStack: ["Next.js", "TypeScript", "Tailwind CSS"],
-    srcURL: "https://gittrack.vercel.app/",
+      "Participación en la creación de materiales visuales y coordinación de comunicación para campañas informativas.",
+    techStack: ["Comunicación visual", "Organización", "Branding", "Trabajo en equipo"],
+    srcURL:
   },
   {
     title: "My Battery",
