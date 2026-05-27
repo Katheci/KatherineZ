@@ -881,14 +881,14 @@ form.addEventListener("submit", handleSubmit);
 
 const projectData = [
   {
-    title: "PassGen",
+    title: "E-commerce",
     subTitle:
-      "You can easily generate secure and random passwords using this simple tool.",
-    thumbnail: "../img/projects-default.jpg",
+      "Diseño y personalización de tienda online.",
+    thumbnail: "../img/thumbnails/venus.png",
     description:
-      "PassGen is a Python CLI tool for generating secure, random passwords from the command line. It allows you to easily create strong and unique passwords for your accounts, with a variety of customization options. Simply enter a few commands and PassGen will do the rest, providing you with a secure password to use with confidence. Fast and efficient, PassGen is the perfect tool for anyone who needs to generate passwords on the fly.",
-    techStack: ["Python"],
-    srcURL: "https://github.com/LakshanRukantha/PassGen",
+      "Proyecto enfocado en branding digital, experiencia de usuario y diseño visual para e-commerce. Desarrollo y personalización de una tienda online explorando estructura visual, navegación y experiencia de compra.",
+    techStack: ["Ruby on Rails", "Lua", "React", "DevOps"],
+    srcURL: "https://venusex-shop.myshopify.com",
   },
   {
     title: "CutLink",
