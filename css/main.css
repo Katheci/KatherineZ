@@ -523,19 +523,6 @@ h6 {
   font-weight: 900;
 }
 
-#intro .img img {
-  width: 100%;
-  position: center;
-  -webkit-mask: url(../img/clip.webp);
-  mask: url(../img/clip.webp);
-  -webkit-mask-repeat: no-repeat;
-  mask-repeat: no-repeat;
-  -webkit-mask-size: contain;
-  mask-size: contain;
-  border-radius: 4px;
-  cursor: grab;
-}
-
 #about {
   padding-top: 50px;
   top: -60px;
