@@ -694,8 +694,8 @@ h6 {
 skills .container .div-card .fron {
   background-image: url("../img/icon/fron.png");
 }
-#skills .container .div-card .ux-ui {
-  background-image: url("../img/icon/ui-ux.png");
+#skills .container .div-card .ux {
+  background-image: url("../img/icon/ux");
 }
 
 /*Icons - Tools & Other Skills */
