@@ -884,7 +884,7 @@ const projectData = [
     title: "E-commerce",
     subTitle:
       "Diseño y personalización de tienda online.",
-    thumbnail: "../img/thumbnails/ven.PNG",
+    thumbnail: "../img/thumbnails/ven.png",
     description:
       "Proyecto enfocado en branding digital, experiencia de usuario y diseño visual para e-commerce. Desarrollo y personalización de una tienda online explorando estructura visual, navegación y experiencia de compra.",
     techStack: ["Shopify", "UI/UX", "Branding", "Diseño responsive", "Experiencia de usuario"],
@@ -912,7 +912,7 @@ const projectData = [
   {
     title: "Proyecto de comunicación visual",
     subTitle: "Desarrollo visual y coordinacion de campaña",
-    thumbnail: "../img/thumbnails/gittrack-thumbnail.png",
+    thumbnail: "../img/thumbnails/congreso.jpg",
     description:
       "Participación en la creación de materiales visuales y coordinación de comunicación para campañas informativas.",
     techStack: ["Comunicación visual", "Organización", "Branding", "Trabajo en equipo"],
