@@ -944,7 +944,7 @@ function loadContent(projectData) {
        </div>
        <h5 class="card-title mt-3">{title}</h5>
        <div class='content'>{description}</div>
-       <div class='technologies'>Tech Stack: ${techStackData}</div>
+       <div class='technologies'>Habilidades: ${techStackData}</div>
        <div class="card-buttons">
           <a href="{srcURL}" target="_blank" class="card-btn" style="float: right; color: #fff; background-color: #68d372; padding: .375rem .75rem; border-radius: .25rem;"><i class="fa-solid fa-display"></i>Link</a>
       </div>`,
