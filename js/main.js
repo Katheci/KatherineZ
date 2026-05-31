@@ -893,7 +893,7 @@ const projectData = [
   {
     title: "Portafolio Interactivo Personal",
     subTitle: "Diseño y desarrollo de portafolio interactivo.",
-    thumbnail: "../img/thumbnails/cutlink-thumbnail.png",
+    thumbnail: "../img/thumbnails/portafolio.png",
     description:
       "Creación y personalización de un portfolio web interactivo enfocado en diseño visual, frontend creativo y experiencias digitales modernas.",
     techStack: ["HTML", "CSS", "GitHub", "Diseño interactivo", "Fronted básico"],
@@ -903,7 +903,7 @@ const projectData = [
     title: "Concepto UI/UX",
     subTitle:
       "Diseño conceptual de interfaz moderna",
-    thumbnail: "../img/thumbnails/mindmate-thumbnail.png",
+    thumbnail: "../img/thumbnails/manejo.png",
     description:
       "Desarrollo de propuesta visual enfocada en experiencia de usuario, jerarquía visual e interacción moderna para una landing page.",
     techStack: ["Figma", "UI Design", "UX Thinking", "Responsive Design"],
