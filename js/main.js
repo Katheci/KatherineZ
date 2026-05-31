@@ -779,7 +779,7 @@ function progressIndicator() {
 setTimeout(() => {
   new Typewriter(".typing-text", {
     strings: [
-      "UI/UX Designer",
+      "UX/UI Designer",
       "Apasionada por diseño web",
       "Shopify Desing",
       "Creativa digital",
@@ -887,7 +887,7 @@ const projectData = [
     thumbnail: "../img/thumbnails/venus.png",
     description:
       "Proyecto enfocado en branding digital, experiencia de usuario y diseño visual para e-commerce. Desarrollo y personalización de una tienda online explorando estructura visual, navegación y experiencia de compra.",
-    Habilidades: ["Shopify", "UI/UX", "Branding", "Diseño responsive", "Experiencia de usuario"],
+    techStack: ["Shopify", "UI/UX", "Branding", "Diseño responsive", "Experiencia de usuario"],
     srcURL: "https://venusex-shop.myshopify.com",
   },
   {
@@ -896,7 +896,7 @@ const projectData = [
     thumbnail: "../img/thumbnails/cutlink-thumbnail.png",
     description:
       "Creación y personalización de un portfolio web interactivo enfocado en diseño visual, frontend creativo y experiencias digitales modernas.",
-    Habilidades: ["HTML", "CSS", "GitHub", "Diseño interactivo", "Fronted básico"],
+    techStack: ["HTML", "CSS", "GitHub", "Diseño interactivo", "Fronted básico"],
     srcURL: "https://katheci.github.io/KatherineZ/",
   },
   {
@@ -906,7 +906,7 @@ const projectData = [
     thumbnail: "../img/thumbnails/mindmate-thumbnail.png",
     description:
       "Desarrollo de propuesta visual enfocada en experiencia de usuario, jerarquía visual e interacción moderna para una landing page.",
-    Habilidades: ["Figma", "UI Design", "UX Thinking", "Responsive Design"],
+    techStack: ["Figma", "UI Design", "UX Thinking", "Responsive Design"],
     srcURL: "https://katheci.github.io/KatherineZ/",
   },
   {
@@ -915,7 +915,7 @@ const projectData = [
     thumbnail: "../img/thumbnails/gittrack-thumbnail.png",
     description:
       "Participación en la creación de materiales visuales y coordinación de comunicación para campañas informativas.",
-    Habilidades: ["Comunicación visual", "Organización", "Branding", "Trabajo en equipo"],
+    techStack: ["Comunicación visual", "Organización", "Branding", "Trabajo en equipo"],
     srcURL: "", 
   },
   // Add more objects for additional projectData here
