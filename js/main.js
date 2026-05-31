@@ -884,7 +884,7 @@ const projectData = [
     title: "E-commerce",
     subTitle:
       "Diseño y personalización de tienda online.",
-    thumbnail: "../img/thumbnails/venus.PNG",
+    thumbnail: "../img/thumbnails/ven.PNG",
     description:
       "Proyecto enfocado en branding digital, experiencia de usuario y diseño visual para e-commerce. Desarrollo y personalización de una tienda online explorando estructura visual, navegación y experiencia de compra.",
     techStack: ["Shopify", "UI/UX", "Branding", "Diseño responsive", "Experiencia de usuario"],
