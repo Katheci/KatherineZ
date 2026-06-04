@@ -27,7 +27,7 @@ function toAbout() {
 }
 
 function toProjects() {
-  var element = document.getElementById("projects");
+  var element = document.getElementById("proyects");
   var headerOffset = 85;
   var elementPosition = element.getBoundingClientRect().top;
   var offsetPosition = elementPosition + window.pageYOffset - headerOffset;
