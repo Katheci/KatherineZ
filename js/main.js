@@ -884,7 +884,7 @@ const projectData = [
     title: "E-commerce",
     subTitle:
       "Diseño y personalización de tienda online.",
-    thumbnail: "../img/thumbnails/ven.png",
+    thumbnail: "./img/thumbnails/ven.png",
     description:
       "Proyecto enfocado en branding digital, experiencia de usuario y diseño visual para e-commerce. Desarrollo y personalización de una tienda online explorando estructura visual, navegación y experiencia de compra.",
     techStack: ["Shopify", "UI/UX", "Branding", "Diseño responsive", "Experiencia de usuario"],
@@ -893,7 +893,7 @@ const projectData = [
   {
     title: "Portafolio Interactivo Personal",
     subTitle: "Diseño y desarrollo de portafolio interactivo.",
-    thumbnail: "../img/thumbnails/portafolio.png",
+    thumbnail: "./img/thumbnails/portafolio.png",
     description:
       "Creación y personalización de un portfolio web interactivo enfocado en diseño visual, frontend creativo y experiencias digitales modernas.",
     techStack: ["HTML", "CSS", "GitHub", "Diseño interactivo", "Fronted básico"],
@@ -903,7 +903,7 @@ const projectData = [
     title: "Concepto UI/UX",
     subTitle:
       "Diseño conceptual de interfaz moderna",
-    thumbnail: "../img/thumbnails/manejo.png",
+    thumbnail: "./img/thumbnails/manejo.png",
     description:
       "Desarrollo de propuesta visual enfocada en experiencia de usuario, jerarquía visual e interacción moderna para una landing page.",
     techStack: ["Figma", "UI Design", "UX Thinking", "Responsive Design"],
@@ -912,7 +912,7 @@ const projectData = [
   {
     title: "Proyecto de comunicación visual",
     subTitle: "Desarrollo visual y coordinacion de campaña",
-    thumbnail: "../img/thumbnails/congreso.jpg",
+    thumbnail: "./img/thumbnails/congreso.jpg",
     description:
       "Participación en la creación de materiales visuales y coordinación de comunicación para campañas informativas.",
     techStack: ["Comunicación visual", "Organización", "Branding", "Trabajo en equipo"],
