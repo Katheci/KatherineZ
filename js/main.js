@@ -781,7 +781,7 @@ setTimeout(() => {
     strings: [
       "UX/UI Designer",
       "Apasionada por diseño web",
-      "Shopify Desing",
+      "Shopify Design",
       "Creativa digital",
     ],
     autoStart: true,
@@ -896,7 +896,7 @@ const projectData = [
     thumbnail: "./img/thumbnails/portafolio.png",
     description:
       "Creación y personalización de un portfolio web interactivo enfocado en diseño visual, frontend creativo y experiencias digitales modernas.",
-    techStack: ["HTML", "CSS", "GitHub", "Diseño interactivo", "Fronted básico"],
+    techStack: ["HTML", "CSS", "GitHub", "Diseño interactivo", "Frontend básico"],
     srcURL: "https://katheci.github.io/KatherineZ/",
   },
   {
