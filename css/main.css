@@ -708,9 +708,6 @@ h6 {
 #skills .container .div-card .espan {
   background-image: url("../img/icon/espan.png");
 }
-#skills .container .div-card .alem {
-  background-image: url("../img/icon/alem.png");
-}
 
 .card-buttons {
   display: flex;
