@@ -907,7 +907,7 @@ const projectData = [
     description:
       "Desarrollo de propuesta visual enfocada en experiencia de usuario, jerarquía visual e interacción moderna para una landing page.",
     techStack: ["Figma", "UI Design", "UX Thinking", "Responsive Design"],
-    srcURL: "https://katheci.github.io/KatherineZ/",
+    srcURL: "https://github.com/Katheci/KatherineZ",
   },
   {
     title: "Proyecto de comunicación visual",
