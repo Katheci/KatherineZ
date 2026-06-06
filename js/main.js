@@ -914,9 +914,9 @@ const projectData = [
     subTitle: "Desarrollo visual y coordinacion de campaña",
     thumbnail: "./img/thumbnails/congreso.jpg",
     description:
-      "Participación en la creación de materiales visuales y coordinación de comunicación para campañas informativas.",
-    techStack: ["Comunicación visual", "Organización", "Branding", "Trabajo en equipo"],
-    srcURL: "", 
+      "Dirección y coordinación de la estrategia de comunicación visual, branding y flujos de trabajo multimedia para campaña interna de unidad, logrando el posicionamiento de la planilla y la victoria en el proceso electoral.",
+    techStack: ["Gestión de Proyectos", "Coordinación de Equipos", "Branding", "Estrategia de Contenido"],
+    srcURL: "https://www.facebook.com/profile.php?id=100063645516362&sk=photos", 
   },
   // Add more objects for additional projectData here
 ];
