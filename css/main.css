@@ -1011,46 +1011,63 @@ footer .support ul li a:hover {
   margin: 10px;
 }
 
-/* CAMBIO: Centramos el título "Links" */
 .heading {
   margin-bottom: 15px;
-  text-align: center;     /* Antes decía left, ahora centra el título */
+  text-align: center;   
   font-size: 18px;
 }
 
-/* CAMBIO DE MAGIA: Volvemos la lista horizontal y centrada */
-.footer-nav ul {
+.col1 .footer-nav {
+  text-align: left;
   list-style: none;
-  padding: 0;
-  margin: 0;
-  display: flex;          /* Activa Flexbox para los enlaces */
-  flex-direction: row;    /* Los acuesta en horizontal */
-  flex-wrap: wrap;        /* Si estás en celular, se acomodan en varias filas */
-  justify-content: center;/* Los centra a lo ancho */
-  gap: 20px;              /* Les da una separación limpia de 20px entre sí */
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+}
+
+.col2 .support {
+  text-align: left;
+  list-style: none;
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
 }
 
 .col1 a {
   display: inline-block;
   padding: 2px 0;
+  margin: 2px 0px;
+  color: #ff079e;
   cursor: pointer;
   font-size: 14px;
 }
 
-/* CAMBIO: Los derechos de autor ahora ocuparán todo el ancho abajo */
-.footer-rights {
-  padding-top: 30px;      /* Espacio arriba del texto/línea */
-  text-align: center;
-  font-size: 0.9em;
-  width: 100%;            /* Se asegura de abarcar toda la pantalla abajo */
+.col2 .support {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  font-size: 14px;
 }
 
-/* Línea divisoria <hr> estética */
-.footer-rights hr {
-  width: 80%;             /* Controla el largo de la línea horizontal */
-  margin: 0 auto 20px auto;/* Centra la línea y le da espacio hacia abajo */
-  border: 0;
-  border-top: 1px solid #e0e0e0; /* Color gris suave para la línea */
+.col2 a {
+  display: inline-block;
+  padding: 2px 0;
+  margin: 2px 0px;
+  color: #ff079e;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.social {
+  display: flex;
+  gap: 20px;
+  
+.footer-rights {
+  padding-top: 30px;     
+  text-align: center;
+  font-size: 0.9em;
+  width: 100%;            
+}
 
 .footer-rights .container {
   padding: 0px;
