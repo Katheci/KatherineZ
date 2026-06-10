@@ -1,0 +1,814 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="title" content="Katherine Zuñiga" />
+    <meta name="language" content="Spanish" />
+
+    <meta
+      name="description"
+      content="Katherine Zuñiga is a highly skilled Digital Marketing & E-commerce Assistant with experience in Shopify development, content creation, and brand communication."
+    />
+    <meta
+      name="copyright"
+      content="© 2023 - 2026 Katherine Zuñiga - All Rights Reserved."
+    />
+    <meta name="author" content="Katherine Zuñiga" />
+
+    <meta property="og:title" content="Katherine Zuñiga" />
+    <meta property="og:site_name" content="Katherine Zuñiga" />
+    <meta property="og:url" content=https://katheci.github.io/KatherineZ/>
+    <meta
+      property="og:description"
+      content="Katherine Zuñiga is a highly skilled Digital Marketing & E-commerce Assistant with experience in Shopify development, content creation, and brand communication."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="/img/thumbnails/rosa.png" />
+
+    <!-- Google Ads Meta Tag -->
+    <meta name="google-adsense-account" content="ca-pub-8130213317723668" />
+
+    <title>Katherine Zuñiga</title>
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="/img/icon/favicon/apple-touch-icon.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="/img/icon/favicon/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="/img/icon/favicon/favicon-16x16.png"
+    />
+    <link rel="manifest" href="/img/icon/favicon/site.webmanifest" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <script
+      defer
+      src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"
+    ></script>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+      integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=Open+Sans&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="https://use.typekit.net/rrg4put.css" />
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
+    <link rel="stylesheet" href="css/main.css" />
+    <link rel="stylesheet" href="css/projects.css" />
+    <!-- Google Ads -->
+    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8130213317723668"
+      crossorigin="anonymous"
+    ></script>
+    <!-- Google Ad Blocking Recovery -->
+    <script
+      async
+      src="https://fundingchoicesmessages.google.com/i/pub-8130213317723668?ers=1"
+      nonce="KH1_Y6X33KnkZyGiS1cDxg"
+    ></script>
+    <script nonce="KH1_Y6X33KnkZyGiS1cDxg">
+      (function () {
+        function signalGooglefcPresent() {
+          if (!window.frames["googlefcPresent"]) {
+            if (document.body) {
+              const iframe = document.createElement("iframe");
+              iframe.style =
+                "width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;";
+              iframe.style.display = "none";
+              iframe.name = "googlefcPresent";
+              document.body.appendChild(iframe);
+            } else {
+              setTimeout(signalGooglefcPresent, 0);
+            }
+          }
+        }
+        signalGooglefcPresent();
+      })();
+    </script>
+    <!-- Google tag (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-9ZW2LKR6BL"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-9ZW2LKR6BL");
+    </script>
+  </head>
+  <body id="to-top" class="noselect">
+    <nav class="navbar navbar-expand-lg fixed-top">
+      <div class="container">
+        <a class="nav-brand noselect" href="index.html">KZ</a>
+        <button class="navbar-toggler" type="button">
+          <div
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarNav"
+            aria-controls="navbarNav"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+            id="nav-icon"
+          >
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+        </button>
+        <div class="collapse navbar-collapse collapse-bg" id="navbarNav">
+          <ul class="navbar-links">
+            <li class="nav-card-item">
+              <a class="nav-link js-scroll-trigger noselect" onclick="toAbout()"
+                >Sobre mi</a
+              >
+            </li>
+            <li class="nav-card-item">
+              <a
+                class="nav-link js-scroll-trigger noselect"
+                onclick="toSkills()"
+                >Skills</a
+              >
+            </li>
+            <li class="nav-card-item">
+              <a
+                class="nav-link js-scroll-trigger noselect"
+                onclick="toProyects()"
+                >Proyectos</a
+              >
+            </li>
+            <li class="nav-card-item">
+              <a
+                class="nav-link js-scroll-trigger noselect"
+                onclick="toMilestones()"
+                >Milestones</a
+              >
+            </li>
+            <li class="nav-card-item">
+              <a
+                class="nav-link js-scroll-trigger noselect"
+                onclick="toContact()"
+                >Contacto</a
+              >
+            </li>
+          </ul>
+          <a href="./CV_Katherine_Zuniga_UX_UI.pdf" download>
+            <button type="button" class="cv-download noselect">
+              <i class="fa-solid fa-cloud-arrow-down fa-lg"></i>English C.V.
+            </button></a
+          >
+        </div>
+      </div>
+      <div class="scroll-progress-track">
+        <div id="progress-bar" class="scroll-progress-thumb"></div>
+      </div>
+    </nav>
+    <div class="loader">
+      <h6 class="loading-text"></h6>
+    </div>
+    <div class="page-content">
+      <main>
+        <!-- Intro -->
+        <section id="intro">
+          <div class="container" data-aos="fade-down" data-aos-duration="1000">
+            <div class="text">
+              <h1>
+                Hola, soy<br />
+                <span class="pink my-name">Katherine,</span>
+                <br />
+              </h1>
+              <div class="typing">
+                <h2><span class="typing-text noselect"></span></h2>
+              </div>
+              <br>
+              <br>
+              <p>
+                ¡Bienvenid@ a 
+                <span id="intro-p">mi portfolio!</span> soy, una persona que se
+                <span id="intro-p">apasiona</span> por crear experiencias
+                <span id="intro-p">digitales</span> modernas,
+                <span id="intro-p">interactivas</span> y
+                <span id="intro-p">visualmente</span> atractivas que conecten creatividad,
+                <span id="intro-p">funcionalidad</span> y
+               <span id="intro-p">experiencia</span> de 
+                <span id="intro-p">usuario</span> con identidad visual y propósito.
+              </p>
+            <div class="button btn-contact contact-btn hb-fill-right-bg noselect"
+                  onclick="toContact()"
+                  ><i class="fa-regular fa-envelope fa-lg"></i>
+                  <span>Contactame</span></a
+                >
+              </div>
+              <a class="scroll noselect" onclick="toAbout()">Presiona aqui para bajar</a>
+            </div>
+            <div class="img">
+              <img
+                onContextMenu="return false;"
+                loading="lazy"
+                class="intro-img"
+                src="img/thumbnails/rosa.png"
+                alt="intro-image"
+              />
+            </div>
+          </div>
+        </section>
+        <svg
+          width="100%"
+          height="100%"
+          id="svg"
+          viewBox="0 0 1440 400"
+          xmlns="http://www.w3.org/2000/svg"
+          class="transition duration-300 ease-in-out delay-150"
+        >
+          <path
+            d="M 0,400 C 0,400 0,200 0,200 C 62.43333333333334,168.3025641025641 124.86666666666667,136.6051282051282 219,129 C 313.1333333333333,121.3948717948718 438.9666666666666,137.88205128205126 522,143 C 605.0333333333334,148.11794871794874 645.2666666666668,141.86666666666665 718,158 C 790.7333333333332,174.13333333333335 895.9666666666667,212.65128205128207 974,232 C 1052.0333333333333,251.34871794871793 1102.8666666666666,251.52820512820512 1176,243 C 1249.1333333333334,234.47179487179488 1344.5666666666666,217.23589743589744 1440,200 C 1440,200 1440,400 1440,400 Z"
+            stroke="none"
+            stroke-width="0"
+            fill="#000000"
+            class="transition-all duration-300 ease-in-out delay-150 path-0"
+            transform="rotate(-180 720 200)"
+          ></path>
+        </svg>
+        <!-- About me -->
+        <section id="about">
+          <div
+            class="about container"
+            data-aos="fade-up"
+            data-aos-duration="1000"
+          >
+            <h6 class="section-title">Sobre mi</h6>
+            <div class="about-wrapper">
+              <div class="left">
+                <div>
+                  <img
+                    loading="lazy"
+                    src="img/icon/dev-experience.svg"
+                    alt="dev-experience-icon"
+                  />
+                  <h2>
+                    <span class="pink counter">2</span>
+                    <span class="pink"> años</span>
+                    Experiencia de trabajo
+                  </h2>
+                </div>
+                <div>
+                  <img
+                    loading="lazy"
+                    src="img/icon/projects-icon.svg"
+                    alt="projects-icon"
+                  />
+                  <h2>
+                    <span class="pink counter">03</span
+                    ><span class="pink">+</span> Proyectos completados
+                  </h2>
+                </div>
+              </div>
+              <div class="right">
+                <h2>
+                  Que hay con mis lados y habilidades
+                  <span class="pink">mas fuertes?</span>
+                </h2>
+                <p>
+                  Uno de mis mayores fuertes es mi capacidad de adaptación, 
+                  creatividad y aprendizaje autodidacta. Disfruto explorar 
+                  nuevas herramientas, resolver problemas y transformar 
+                  ideas en experiencias digitales funcionales y visualmente
+                  atractivas. Me considero una persona organizada, detallista 
+                  y comprometida con seguir mejorando constantemente en cada 
+                  proyecto en el que trabajo.
+                </p>
+                <p>
+                  Actualmente me encuentro desarrollando habilidades 
+                  en diseño UI/UX, diseño web e interfaces interactivas. 
+                  Tengo experiencia trabajando con herramientas 
+                  y plataformas digitales como Shopify, GitHub, HTML 
+                  y CSS, además de conocimientos en personalización web y 
+                  diseño centrado en el usuario. Me interesa especialmente 
+                  la creación de experiencias modernas, intuitivas y 
+                  visualmente dinámicas que conecten con las personas.
+                </p>
+                <p>
+                  Además, disfruto trabajar en equipo, comunicar ideas de 
+                  manera clara y entender las necesidades de cada proyecto 
+                  para convertirlas en soluciones funcionales y creativas. 
+                  Me apasiona seguir aprendiendo, explorar nuevas tecnologías
+                  y continuar creciendo profesionalmente dentro del mundo del 
+                  diseño digital y las experiencias interactivas.
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+        <!-- Mi biografía -->
+        <section id="bio">
+          <div class="container" data-aos="fade-up" data-aos-duration="1000">
+            <h6 class="section-title">Mi biografía</h6>
+            <div class="bio">
+              <div class="img">
+                <img
+                  loading="lazy"
+                  class="bio-img"
+                  src="./img/thumbnails/katy.png"
+                  alt="photo-bio"
+                />
+              </div>
+              <div class="text">
+                <h2>
+                  <span class="pink">Biografía,<br /></span> en pocas palabras
+                </h2>
+                <p>
+                  Hola, soy Katherine Zúñiga, una diseñadora enfocada 
+                  en experiencias digitales, diseño UI/UX y desarrollo 
+                  web creativo. Me apasiona crear interfaces modernas, 
+                  visualmente atractivas e interactivas que conecten 
+                  con las personas y generen experiencias intuitivas.
+                </p>
+                <p>
+                  Mi interés por el diseño comenzó a través del e-commerce 
+                  y la personalización de proyectos propios, donde descubrí
+                  cómo la creatividad, la experiencia de usuario y la 
+                  funcionalidad pueden trabajar juntas para transformar una 
+                  idea en algo visualmente impactante. Actualmente continúo 
+                  desarrollando habilidades en diseño web, frontend y 
+                  experiencias digitales interactivas.
+                </p>
+                <p>
+                  Soy una persona curiosa, autodidacta y en constante 
+                  aprendizaje. Disfruto explorar nuevas herramientas, 
+                  resolver problemas y seguir creciendo dentro del
+                  mundo del diseño y la tecnología. Además de mi 
+                  interés por el diseño digital, me inspiran la creatividad, 
+                  los viajes, la fotografía y las experiencias que conectan
+                  emoción, estética y funcionalidad.
+                </p>
+                <p>
+                  Me considero una persona adaptable, organizada 
+                  y comprometida con crear proyectos que no solo 
+                  se vean bien, sino que también transmitan identidad
+                  y una buena experiencia para el usuario.
+                  
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+        <svg
+          width="100%"
+          height="100%"
+          id="svg"
+          viewBox="0 0 1440 400"
+          xmlns="http://www.w3.org/2000/svg"
+          class="transition duration-300 ease-in-out delay-150"
+        >
+          <path
+            d="M 0,500 C 0,500 0,250 0,250 C 53.5,275.4589743589744 107,300.9179487179487 202,290 C 297,279.0820512820513 433.5,231.7871794871795 519,219 C 604.5,206.2128205128205 638.9999999999999,227.93333333333334 710,242 C 781.0000000000001,256.06666666666666 888.5,262.4794871794872 968,272 C 1047.5,281.5205128205128 1099,294.14871794871794 1173,291 C 1247,287.85128205128206 1343.5,268.925641025641 1440,250 C 1440,250 1440,500 1440,500 Z"
+            stroke="none"
+            stroke-width="0"
+            fill="#000000"
+            class="transition-all duration-300 ease-in-out delay-150 path-0"
+          ></path>
+        </svg>
+        <!-- Skills -->
+        <section id="skills" class="text-center">
+          <div class="container" data-aos="fade-up" data-aos-duration="1000">
+            <h6 class="section-title">Skills</h6>
+            <h3 class="skill-label">Habilidades Técnicas</h3>
+            <div class="skill-cards-container">
+              <div class="div-card">
+                <div
+                  class="div-card-item web"
+                  title="Nivel : intermedio"
+                ></div>
+                <span>Diseño web & responsive</span>
+              </div>
+              <div class="div-card">
+                <div
+                  class="div-card-item brandi"
+                  title="Nivel : Intermedio"
+                ></div>
+                <span>Branding Digital</span>
+              </div>
+              <div class="div-card">
+                <div
+                  class="div-card-item chtm"
+                  title="Nivel : Intermedio"
+                ></div>
+                <span>Desarrollo Frontend</span>
+              </div>
+              <div class="div-card">
+                <div
+                  class="div-card-item ux"
+                  title="Nivel : Intermedio"
+                ></div>
+                <span>UX/UI</span>
+              </div>
+            </div>
+            <h3 class="skill-label">Herramientas y Tecnologías</h3>
+            <div class="skill-cards-container">
+              <div class="div-card">
+                <div
+                  class="div-card-item canv"
+                  title="Nivel : Intermedio"
+                ></div>
+                <span>Canva</span>
+              </div>
+              <div class="div-card">
+                <div class="div-card-item fig" title="Nivel : Basico"></div>
+                <span>Figma</span>
+              </div>
+              <div class="div-card">
+                 <div class="div-card-item shopify" title="Nivel : Intermedio"></div>
+                <span>Shopify</span>
+              </div>
+              <div class="div-card">
+                 <div class="div-card-item github" title="Nivel : Basico"></div>
+                <span>GitHub</span>
+                
+              </div>
+            </div>
+            <h3 class="skill-label">Idiomas</h3>
+            <div class="skill-cards-container">
+              <div class="div-card">
+                 <div class="div-card-item ingles" title="Nivel : B2 Upper Intermedio"></div>
+                <span>Ingles</span>
+              </div>
+              <div class="div-card">
+                <div
+                  class="div-card-item espan"
+                  title="Nivel : Nativo"
+                ></div>
+                <span>Español</span>
+              </div>
+            </div>
+          </div>
+        </section>
+        <svg
+          width="100%"
+          height="100%"
+          id="svg"
+          viewBox="0 0 1440 400"
+          xmlns="http://www.w3.org/2000/svg"
+          class="transition duration-300 ease-in-out delay-150"
+        >
+          <path
+            d="M 0,400 C 0,400 0,200 0,200 C 75.28461538461539,167.45897435897436 150.56923076923078,134.91794871794872 239,134 C 327.4307692307692,133.08205128205128 429.0076923076923,163.7871794871795 513,172 C 596.9923076923077,180.2128205128205 663.4000000000001,165.93333333333337 741,183 C 818.5999999999999,200.06666666666663 907.3923076923077,248.47948717948714 977,269 C 1046.6076923076923,289.52051282051286 1097.0307692307692,282.14871794871794 1171,266 C 1244.9692307692308,249.85128205128206 1342.4846153846154,224.92564102564103 1440,200 C 1440,200 1440,400 1440,400 Z"
+            stroke="none"
+            stroke-width="0"
+            fill="#000000"
+            class="transition-all duration-300 ease-in-out delay-150 path-0"
+            transform="rotate(-180 720 200)"
+          ></path>
+        </svg>
+        <!-- Proyectos -->
+        <section id="proyectos">
+          <div class="container" data-aos="fade-up" data-aos-duration="1000">
+            <h6 class="section-title">Proyectos</h6>
+            <div class="projects-section">
+              <div class="project-data-wrapper">
+                <div class="project-data"></div>
+                <div class="navigation"></div>
+                <div class="arrow-left">
+                  <i class="fa fa-chevron-left"></i>
+                </div>
+                <div class="arrow-right">
+                  <i class="fa fa-chevron-right"></i>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <svg
+          width="100%"
+          height="100%"
+          id="svg"
+          viewBox="0 0 1440 400"
+          xmlns="http://www.w3.org/2000/svg"
+          class="transition duration-300 ease-in-out delay-150"
+        >
+          <path
+            d="M 0,400 C 0,400 0,200 0,200 C 63.06410256410257,245.6948717948718 126.12820512820514,291.3897435897436 219,265 C 311.87179487179486,238.6102564102564 434.551282051282,140.1358974358974 510,145 C 585.448717948718,149.8641025641026 613.6666666666666,258.0666666666667 679,266 C 744.3333333333334,273.9333333333333 846.7820512820515,181.59743589743587 939,167 C 1031.2179487179485,152.40256410256413 1113.2051282051282,215.54358974358976 1195,234 C 1276.7948717948718,252.45641025641024 1358.397435897436,226.2282051282051 1440,200 C 1440,200 1440,400 1440,400 Z"
+            stroke="none"
+            stroke-width="0"
+            fill="#000000"
+            class="transition-all duration-300 ease-in-out delay-150 path-0"
+          ></path>
+        </svg>
+        <!-- Special Milestones -->
+        <section id="milestones" class="text-center">
+          <div class="container" data-aos="fade-up" data-aos-duration="1000">
+            <h6 class="section-title">Special Milestones</h6>
+            <div class="milestones">
+              <div class="timeline">
+                <ul>
+                  <li>
+                    <div class="timeline-content">
+                      <h3 class="date">Mayo, 2026</h3>
+                      <h2 class="title job">🌎Experiencia internacional</h2>
+                      <h3 class="sub-title company">Dubai</h3>
+                      <p class="description">
+                        Experiencia enfocada en adaptación cultural, desarrollo del 
+                        idioma inglés y crecimiento personal en un entorno internacional, 
+                        fortaleciendo habilidades de comunicación, independencia y adaptación.
+                      </p>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="timeline-content">
+                      <h3 class="date">Marzo, 2026</h3>
+                      <h2 class="title education">
+                        🎤 Participación en medios y comunicación
+
+                      </h2>
+                      <h3 class="sub-title school">MVS noticias</h3>
+                      <p class="description">
+                        Participación en entrevistas y cobertura mediática en televisión, 
+                        radio y plataformas digitales durante mi estancia en Dubái, 
+                        compartiendo perspectivas y experiencias en un contexto internacional.
+                      </p>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="timeline-content">
+                      <h3 class="date">Febrero, 2025</h3>
+                      <h2 class="title education">📋Coordinación y comunicación estratégica</h2>
+                      <h3 class="sub-title school">Sindicato Nacional de Trabajadores del Seguro Social</h3>
+                      <p class="description">
+                        Participación en proyectos de comunicación y campañas informativas, 
+                        desarrollando materiales visuales y colaborando en la coordinación 
+                        de equipos y actividades.
+                      </p>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="timeline-content">
+                      <h3 class="date">2023-2026</h3>
+                      <h2 class="title education">📋 Coordinaciones de Oficina medica y operaciones</h2>
+                      <h3 class="sub-title school">IMSS</h3>
+                      <p class="description">
+                        Lideré la optimización de flujos de trabajo operativos y la gestión 
+                        de datos de alto volumen en entornos de alta presión. Apliqué un 
+                        enfoque centrado en las personas (Human-Centered Mindset) para resolver
+                        problemas críticos de comunicación, coordinar equipos multidisciplinarios
+                        y estructurar reportes analíticos visuales para la toma de decisiones estratégicas.
+                         </p>
+                    </div>
+                  </li>
+                  <li>
+                    <div class="timeline-content">
+                      <h3 class="date">Diciembre, 2024</h3>
+                      <h2 class="title education">🛍️ E-commerce</h2>
+                      <h3 class="sub-title school">Shopify & Branding Digital</h3>
+                      <p class="description">
+                        Desarrollo y personalización de un proyecto e-commerce 
+                        enfocado en identidad visual, experiencia de usuario 
+                        y diseño digital orientado a interacción y conversión.
+                        
+
+                      </p>
+                    </div>
+                  </li>
+                  <!-- <li>
+                    <div class="timeline-content">
+                      <h3 class="date">2011</h3>
+                      <h2 class="title education">
+                        Scholarship Examination (Grade 05)
+                      </h2>
+                      <h3 class="sub-title school">School : V/Agrabodhi M.V</h3>
+                      <p class="description">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Consectetur tempora ab laudantium voluptatibus aut eos
+                        placeat laborum, quibusdam exercitationem labore.
+                      </p>
+                    </div>
+                  </li>
+                  <li class="start">
+                    <div class="timeline-content">
+                      <h3 class="date">26th February, 2001</h3>
+                      <h2 class="title birth">Birth</h2>
+                      <h3 class="sub-title globe">Born in Sri Lanka</h3>
+                      <p class="description">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                        Consectetur tempora ab laudantium voluptatibus aut eos
+                        placeat laborum, quibusdam exercitationem labore.
+                      </p>
+                    </div>
+                  </li> -->
+                </ul>
+              </div>
+            </div>
+          </div>
+        </section>
+        <svg
+          width="100%"
+          height="100%"
+          id="svg"
+          viewBox="0 0 1440 400"
+          xmlns="http://www.w3.org/2000/svg"
+          class="transition duration-300 ease-in-out delay-150"
+        >
+          <path
+            d="M 0,400 C 0,400 0,200 0,200 C 75.28461538461539,167.45897435897436 150.56923076923078,134.91794871794872 239,134 C 327.4307692307692,133.08205128205128 429.0076923076923,163.7871794871795 513,172 C 596.9923076923077,180.2128205128205 663.4000000000001,165.93333333333337 741,183 C 818.5999999999999,200.06666666666663 907.3923076923077,248.47948717948714 977,269 C 1046.6076923076923,289.52051282051286 1097.0307692307692,282.14871794871794 1171,266 C 1244.9692307692308,249.85128205128206 1342.4846153846154,224.92564102564103 1440,200 C 1440,200 1440,400 1440,400 Z"
+            stroke="none"
+            stroke-width="0"
+            fill="#000000"
+            class="transition-all duration-300 ease-in-out delay-150 path-0"
+            transform="rotate(-180 720 200)"
+          ></path>
+        </svg>
+        <!-- Contact -->
+        <section id="contact" class="text-center">
+          <div class="container" data-aos="fade-up" data-aos-duration="1000">
+            <h6 class="section-title">Contact</h6>
+            <h2 class="contact-title">
+              Escribeme <span class="pink">anytime</span>
+            </h2>
+            <div class="row">
+              <div class="form col-md-7 col-lg-8">
+                <form
+                  id="contact-form"
+                  action="https://formspree.io/f/maqzyllq"
+                  method="post"
+                >
+                  <div class="form-group">
+                    <label for="name">Nombre Completo</label>
+                    <input
+                      type="text"
+                      name="fullName"
+                      class="form-control"
+                      id="name"
+                      placeholder=""
+                      required
+                    />
+                  </div>
+                  <div class="form-group">
+                    <label for="email">E-Mail</label>
+                    <input
+                      type="email"
+                      name="email"
+                      class="form-control"
+                      id="email"
+                      placeholder=""
+                      required
+                    />
+                  </div>
+                  <div class="form-group">
+                    <label for="email">Mensaje</label>
+                    <textarea
+                      title="message"
+                      class="form-control"
+                      name="message"
+                      id="Message"
+                      required
+                    ></textarea>
+                  </div>
+                  <button
+                    type="submit"
+                    class="button btn-send-message noselect"
+                  >
+                    <i class="fa-solid fa-paper-plane fa-lg"></i>
+                    Enviar mensaje
+                  </button>
+                </form>
+              </div>
+              <div class="img-bg col-md-5 col-lg-4">
+                <div class="contact-img">
+                  <lottie-player
+                    src="./img/contact-image-data.json"
+                    mode="bounce"
+                    background="transparent"
+                    speed="0.8"
+                    loop
+                    autoplay
+                  ></lottie-player>
+                </div>
+              </div>
+
+              <!-- Footer -->
+              <footer>
+                <div class="main">
+                  <div class="col1">
+                    <h3 class="heading">Links</h3>
+                    <div class="footer-nav">
+                      <ul>
+                        <li>
+                          <a href="https://KatherineZuñiga.github.io/">
+                            Home
+                          </a>
+                        </li>
+                        <li>
+                          <a onclick="toAbout()"> sobre mi </a>
+                        </li>
+                        <li>
+                          <a onclick="toSkills()"> Skills </a>
+                        </li>
+                        <li>
+                          <a onclick="toproyectos()"> Proyectos </a>
+                        </li>
+                        <li>
+                          <a onclick="toMilestones()"> Milestones </a>
+                        </li>
+                        <li>
+                          <a onclick="toContact()"> Contacto </a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+
+                <div class="footer-rights">
+                  <hr />
+                  <div class="container">
+                    <div class="copyright">
+                      <p>
+                        Copyright &copy; 2023-2026 | All rights reserved. Made
+                        with
+                        <span id="heart-icon">&#10084;</span> by
+                        <a
+                          href="https://KatherineZuñiga.github.io"
+                          title="Official Website"
+                          target="_blank"
+                          >Katherine Zuñiga</a
+                        >
+                      </p>
+                      <!-- This website is licenced by Katherine Zuñiga,
+                      You are free to: Share and Adapt. You must give appropriate credit, you may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. -->
+                    </div>
+                  </div>
+                </div>
+              </footer>
+            </div>
+          </div>
+        </section>
+      </main>
+      <a title="Go to top." href="#to-top">
+        <div class="to-top"><i class="fa-solid fa-angles-up"></i></div>
+      </a>
+      <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+      <script src="js/tilt.js"></script>
+      <script
+        src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj"
+        crossorigin="anonymous"
+        target="_blank"
+      ></script>
+      <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+      <script
+        src="https://kit.fontawesome.com/0a73ff5289.js"
+        crossorigin="anonymous"
+      ></script>
+      <script
+        src="https://code.jquery.com/jquery-3.6.0.js"
+        integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+        crossorigin="anonymous"
+      ></script>
+
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
+      <script src="./js/counter.min.js"></script>
+      <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+      <script src="https://unpkg.co/gsap@3/dist/gsap.min.js"></script>
+      <script src="js/main.js"></script>
+      <script>
+        AOS.init();
+      </script>
+      <!-- Snow Flakes in December -->
+      <script src="https://unpkg.com/magic-snowflakes/dist/snowflakes.min.js"></script>
+      <script>
+        const d = new Date();
+        let month = d.getMonth();
+        if (month == 11) {
+          var snowflakes = new Snowflakes({ count: 20 });
+        } else {
+          null;
+        }
+      </script>
+    </div>
+  </body>
+</html>
