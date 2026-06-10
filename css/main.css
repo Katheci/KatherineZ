@@ -997,77 +997,61 @@ footer .support ul li a:hover {
   text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.1);
 }
 
+/* CAMBIO: .main ahora apila la sección de links arriba y los derechos abajo */
 .main {
   width: 100%;
   display: flex;
-  align-items: flex-start;
-  justify-content: space-around;
-  flex-wrap: wrap;
+  flex-direction: column; /* Hace que col1 vaya arriba y footer-rights vaya abajo */
+  align-items: center;    /* Centra todo horizontalmente */
 }
 
-.col1,
-.col2,
-.col3 {
+/* CAMBIO: Centramos el bloque de la columna 1 */
+.col1 {
   margin: 10px;
+  text-align: center;
+  width: 100%;
 }
 
+/* CAMBIO: Centramos el título "Links" */
 .heading {
   margin-bottom: 15px;
-  text-align: left;
+  text-align: center;     /* Antes decía left, ahora centra el título */
   font-size: 18px;
 }
 
-.col1 .footer-nav {
-  text-align: left;
+/* CAMBIO DE MAGIA: Volvemos la lista horizontal y centrada */
+.footer-nav ul {
   list-style: none;
-  width: fit-content;
-  display: flex;
-  flex-direction: column;
-}
-
-.col2 .support {
-  text-align: left;
-  list-style: none;
-  width: fit-content;
-  display: flex;
-  flex-direction: column;
+  padding: 0;
+  margin: 0;
+  display: flex;          /* Activa Flexbox para los enlaces */
+  flex-direction: row;    /* Los acuesta en horizontal */
+  flex-wrap: wrap;        /* Si estás en celular, se acomodan en varias filas */
+  justify-content: center;/* Los centra a lo ancho */
+  gap: 20px;              /* Les da una separación limpia de 20px entre sí */
 }
 
 .col1 a {
   display: inline-block;
   padding: 2px 0;
-  margin: 2px 0px;
-  color: #7783a0;
   cursor: pointer;
   font-size: 14px;
 }
 
-.col2 .support {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  font-size: 14px;
-}
-
-.col2 a {
-  display: inline-block;
-  padding: 2px 0;
-  margin: 2px 0px;
-  color: #7783a0;
-  cursor: pointer;
-  font-size: 14px;
-}
-
-.social {
-  display: flex;
-  gap: 20px;
-}
-
+/* CAMBIO: Los derechos de autor ahora ocuparán todo el ancho abajo */
 .footer-rights {
-  padding-top: 50px;
+  padding-top: 30px;      /* Espacio arriba del texto/línea */
   text-align: center;
   font-size: 0.9em;
+  width: 100%;            /* Se asegura de abarcar toda la pantalla abajo */
 }
+
+/* Línea divisoria <hr> estética */
+.footer-rights hr {
+  width: 80%;             /* Controla el largo de la línea horizontal */
+  margin: 0 auto 20px auto;/* Centra la línea y le da espacio hacia abajo */
+  border: 0;
+  border-top: 1px solid #e0e0e0; /* Color gris suave para la línea */
 
 .footer-rights .container {
   padding: 0px;
