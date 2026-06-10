@@ -1013,7 +1013,7 @@ footer .support ul li a:hover {
 
 .heading {
   margin-bottom: 15px;
-  text-align: center;   
+  text-align: left;   
   font-size: 18px;
 }
 
@@ -1065,8 +1065,7 @@ footer .support ul li a:hover {
 .footer-rights {
   padding-top: 30px;     
   text-align: center;
-  font-size: 0.9em;
-  width: 100%;            
+  font-size: 0.9em;          
 }
 
 .footer-rights .container {
