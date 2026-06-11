@@ -1009,6 +1009,8 @@ footer .support ul li a:hover {
 .col2,
 .col3 {
   margin: 10px;
+  flex: 1;
+  min-width: 150px;
 }
 
 .heading {
@@ -1061,6 +1063,7 @@ footer .support ul li a:hover {
 .social {
   display: flex;
   gap: 20px;
+}
   
 .footer-rights {
   padding-top: 50px;     
