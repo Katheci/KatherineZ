@@ -1020,11 +1020,13 @@ footer .support ul li a:hover {
 }
 
 .col1 .footer-nav {
-  text-align: left;
+  text-align: center;
   list-style: none;
   width: fit-content;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
+  gap: 30px;
+  align-items: center;
 }
 
 .col2 .support {
