@@ -1937,3 +1937,45 @@ footer .support ul li a:hover {
 
   object-fit: cover;
 }
+
+/* 1. Obligamos al contenedor del footer a apilar los links arriba y el copyright abajo */
+.footer-seccion-baja {
+  width: 100%;
+  display: flex;
+  flex-direction: column; /* Apila los bloques verticalmente */
+  align-items: center;    /* Centra los bloques en medio de la pantalla */
+}
+
+/* 2. Centramos el título "Links" de abajo */
+.footer-seccion-baja .heading {
+  text-align: center;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+/* 3. LA MAGIA: Apuntamos directamente a la lista <ul> interna para acostarla */
+.footer-seccion-baja .footer-nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;          /* Activa Flexbox */
+  flex-direction: row;    /* Pone los links en horizontal (fila) */
+  flex-wrap: wrap;        /* Si estás en celular, saltan de línea solitos */
+  justify-content: center;/* Los centra horizontalmente */
+  gap: 30px;              /* Los separa limpiamente con el espacio que querías */
+}
+
+/* 4. Aseguramos que los derechos abarquen todo el ancho y se queden hasta abajo */
+.footer-seccion-baja .footer-rights {
+  width: 100%;
+  text-align: center;
+  padding-top: 40px;      /* Espacio entre los links y los derechos */
+}
+
+/* Opcional: Si quieres una línea divisoria bonita sobre tus derechos de autor */
+.footer-seccion-baja .footer-rights hr {
+  width: 60%;
+  margin: 0 auto 20px auto;
+  border: 0;
+  border-top: 1px solid #e0e0e0;
+}
