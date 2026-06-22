@@ -883,39 +883,39 @@ const projectData = [
   {
     title: "E-commerce",
     subTitle:
-      "Design y personalización de tienda online.",
+      "Online store design and customization.",
     thumbnail: "./img/thumbnails/ven.png",
     description:
-      "Proyecto enfocado en branding digital, experiencia de usuario y design visual para e-commerce. Desarrollo y personalización de una tienda online explorando estructura visual, navegación y experiencia de compra.",
-    techStack: ["Shopify", "UI/UX", "Branding", "design responsive", "Experiencia de usuario"],
+      "A project focused on digital branding, user experience, and visual design for e-commerce. Developed and customized an online storefront, optimizing visual hierarchy, navigation flows, and the overall shopping journey.",
+    techStack: ["Shopify", "UI/UX", "Branding", "Responsive Design", "User Experience"],
     srcURL: "https://venusex-shop.myshopify.com",
   },
   {
-    title: "Portafolio Interactivo Personal",
-    subTitle: "Design y desarrollo de portafolio interactivo.",
+    title: "Personal Interactive Portfolio.",
+    subTitle: "Design and development of an interactive portfolio.",
     thumbnail: "./img/thumbnails/portafolio.png",
     description:
-      "Creación y personalización de un portfolio web interactivo enfocado en design visual, frontend creativo y experiencias digitales modernas.",
-    techStack: ["HTML", "CSS", "GitHub", "design interactivo", "Frontend básico"],
+      "Creation and customization of an interactive web portfolio focused on visual design, creative front-end development, and modern digital experiences.",
+    techStack: ["HTML", "CSS", "GitHub", "Interactive Design", "Frontend Basic"],
     srcURL: "https://katheci.github.io/KatherineZ/",
   },
   {
-    title: "Concepto UI/UX",
+    title: "UI/UX Concept",
     subTitle:
-      "Design conceptual de interfaz moderna",
+      "Conceptual design for a modern interface.",
     thumbnail: "./img/thumbnails/manejo.png",
     description:
-      "Desarrollo de propuesta visual enfocada en experiencia de usuario, jerarquía visual e interacción moderna para una landing page.",
+      "Development of a high-fidelity visual proposal focused on user experience, visual hierarchy, and modern interaction design for a landing page.",
     techStack: ["Figma", "UI Design", "UX Thinking", "Responsive Design"],
     srcURL: "https://github.com/Katheci/KatherineZ",
   },
   {
-    title: "Proyecto de comunicación visual",
-    subTitle: "Desarrollo visual y coordinacion de campaña",
+    title: "Visual Communication Project",
+    subTitle: "Visual development and campaign coordination.",
     thumbnail: "./img/thumbnails/congreso.jpg",
     description:
-      "Dirección y coordinación de la estrategia de comunicación visual, branding y flujos de trabajo multimedia para campaña interna de unidad, logrando el posicionamiento de la planilla y la victoria en el proceso electoral.",
-    techStack: ["Gestión de Proyectos", "Coordinación de Equipos", "Branding", "Estrategia de Contenido"],
+      "Led and coordinated the visual communication strategy, branding, and multimedia workflows for an internal unity campaign, successfully positioning the slate and securing victory in the electoral process.",
+    techStack: ["Project Management", "Team Coordination", "Branding", "Content Strategy"],
     srcURL: "https://www.facebook.com/profile.php?id=100063645516362&sk=photos", 
   },
   // Add more objects for additional projectData here
