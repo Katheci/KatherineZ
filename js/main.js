@@ -780,9 +780,9 @@ setTimeout(() => {
   new Typewriter(".typing-text", {
     strings: [
       "UX/UI Designer",
-      "Apasionada por diseño web",
-      "Shopify Design",
-      "Creativa digital",
+      "Data-Driven Creative Direction",
+      "E-commerce Optimization",
+      "Growth Marketing & Product Design",
     ],
     autoStart: true,
     loop: true,
@@ -794,7 +794,7 @@ setTimeout(() => {
 // Preloader text handling
 
 new Typewriter(".loading-text", {
-  strings: ["Katy esta creando..."],
+  strings: ["Katy is creating..."],
   autoStart: true,
   delay: 50,
   cursor: "|",
