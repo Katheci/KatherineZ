@@ -883,26 +883,26 @@ const projectData = [
   {
     title: "E-commerce",
     subTitle:
-      "Diseño y personalización de tienda online.",
+      "Design y personalización de tienda online.",
     thumbnail: "./img/thumbnails/ven.png",
     description:
-      "Proyecto enfocado en branding digital, experiencia de usuario y diseño visual para e-commerce. Desarrollo y personalización de una tienda online explorando estructura visual, navegación y experiencia de compra.",
-    techStack: ["Shopify", "UI/UX", "Branding", "Diseño responsive", "Experiencia de usuario"],
+      "Proyecto enfocado en branding digital, experiencia de usuario y design visual para e-commerce. Desarrollo y personalización de una tienda online explorando estructura visual, navegación y experiencia de compra.",
+    techStack: ["Shopify", "UI/UX", "Branding", "design responsive", "Experiencia de usuario"],
     srcURL: "https://venusex-shop.myshopify.com",
   },
   {
     title: "Portafolio Interactivo Personal",
-    subTitle: "Diseño y desarrollo de portafolio interactivo.",
+    subTitle: "Design y desarrollo de portafolio interactivo.",
     thumbnail: "./img/thumbnails/portafolio.png",
     description:
-      "Creación y personalización de un portfolio web interactivo enfocado en diseño visual, frontend creativo y experiencias digitales modernas.",
-    techStack: ["HTML", "CSS", "GitHub", "Diseño interactivo", "Frontend básico"],
+      "Creación y personalización de un portfolio web interactivo enfocado en design visual, frontend creativo y experiencias digitales modernas.",
+    techStack: ["HTML", "CSS", "GitHub", "design interactivo", "Frontend básico"],
     srcURL: "https://katheci.github.io/KatherineZ/",
   },
   {
     title: "Concepto UI/UX",
     subTitle:
-      "Diseño conceptual de interfaz moderna",
+      "Design conceptual de interfaz moderna",
     thumbnail: "./img/thumbnails/manejo.png",
     description:
       "Desarrollo de propuesta visual enfocada en experiencia de usuario, jerarquía visual e interacción moderna para una landing page.",
